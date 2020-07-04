@@ -22,7 +22,7 @@ jobs:
         rm -rf domain-list-community
         python generate.py > rules
         rm -rf data
-        
+
     - name: Update repo
       run: |
         git config --global user.name 'Actions'
