@@ -1,0 +1,34 @@
+name: Update rules
+
+on:
+  push:
+
+jobs:
+  update:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'
+
+    - name: Generate rules
+      run: |
+        git clone https://github.com/v2ray/domain-list-community
+        mv domain-list-community/data ./
+        rm -rf domain-list-community
+        python generate.py > rules
+        rm -rf data
+        
+    - name: Update repo
+      run: |
+        git config --global user.name 'Actions'
+        git config --global user.email 'capric98@users.noreply.github.com'
+        if [ -n "$(git status --porcelain)" ]; then
+            git commit -am "Update RULEs by actions."
+        fi
+        git push
+
