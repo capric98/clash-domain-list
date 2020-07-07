@@ -487,6 +487,9 @@
   - DOMAIN-SUFFIX,znsv.baidu.com,DIRECT
   - DOMAIN-SUFFIX,zz.bdstatic.com,DIRECT
   - DOMAIN-SUFFIX,zzy1.quyaoya.com,DIRECT
+  - DOMAIN-SUFFIX,zuoyebang.cc,DIRECT
+  - DOMAIN-SUFFIX,zuoyebang.com,DIRECT
+  - DOMAIN-SUFFIX,zybang.com,DIRECT
   - DOMAIN-SUFFIX,acg.tv,DIRECT
   - DOMAIN-SUFFIX,acgvideo.com,DIRECT
   - DOMAIN-SUFFIX,b23.tv,DIRECT
@@ -613,9 +616,10 @@
   - DOMAIN-SUFFIX,mogoo.com,DIRECT
   - DOMAIN-SUFFIX,sao.cn,DIRECT
   - DOMAIN-SUFFIX,saolife.com,DIRECT
-  - DOMAIN-SUFFIX,douyu.tv,DIRECT
   - DOMAIN-SUFFIX,douyu.com,DIRECT
+  - DOMAIN-SUFFIX,douyu.tv,DIRECT
   - DOMAIN-SUFFIX,douyucdn.cn,DIRECT
+  - DOMAIN-SUFFIX,douyucdn2.cn,DIRECT
   - DOMAIN-SUFFIX,douyuscdn.com,DIRECT
   - DOMAIN-SUFFIX,douyutv.com,DIRECT
   - DOMAIN-SUFFIX,ele.me,DIRECT
