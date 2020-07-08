@@ -773,6 +773,8 @@
   - DOMAIN-SUFFIX,jinshujucdn.com,DIRECT
   - DOMAIN-SUFFIX,jsdelivr.net,DIRECT
   - DOMAIN-SUFFIX,jsdelivr.com,DIRECT
+  - DOMAIN-SUFFIX,gotokeep.com,DIRECT
+  - DOMAIN-SUFFIX,keepcdn.com,DIRECT
   - DOMAIN-SUFFIX,gifshow.com,DIRECT
   - DOMAIN-SUFFIX,ksapisrv.com,DIRECT
   - DOMAIN-SUFFIX,kuaishou.com,DIRECT
@@ -1184,6 +1186,7 @@
   - DOMAIN-SUFFIX,0123456789.com,DIRECT
   - DOMAIN-SUFFIX,055110.com,DIRECT
   - DOMAIN-SUFFIX,05sun.com,DIRECT
+  - DOMAIN-SUFFIX,0759job.com,DIRECT
   - DOMAIN-SUFFIX,100bt.com,DIRECT
   - DOMAIN-SUFFIX,100offer.com,DIRECT
   - DOMAIN-SUFFIX,11467.com,DIRECT
@@ -1254,6 +1257,7 @@
   - DOMAIN-SUFFIX,51eshop.com,DIRECT
   - DOMAIN-SUFFIX,51hejia.com,DIRECT
   - DOMAIN-SUFFIX,51jingying.com,DIRECT
+  - DOMAIN-SUFFIX,51sole.com,DIRECT
   - DOMAIN-SUFFIX,51wendang.com,DIRECT
   - DOMAIN-SUFFIX,51yes.com,DIRECT
   - DOMAIN-SUFFIX,5253.com,DIRECT
@@ -1384,6 +1388,7 @@
   - DOMAIN-SUFFIX,cecdc.com,DIRECT
   - DOMAIN-SUFFIX,cecport.com,DIRECT
   - DOMAIN-SUFFIX,ch.com,DIRECT
+  - DOMAIN-SUFFIX,chachaba.com,DIRECT
   - DOMAIN-SUFFIX,changba.com,DIRECT
   - DOMAIN-SUFFIX,chashebao.com,DIRECT
   - DOMAIN-SUFFIX,chazhengla.com,DIRECT
@@ -1410,6 +1415,7 @@
   - DOMAIN-SUFFIX,chushou.tv,DIRECT
   - DOMAIN-SUFFIX,chuyu.me,DIRECT
   - DOMAIN-SUFFIX,city8.com,DIRECT
+  - DOMAIN-SUFFIX,cjol.com,DIRECT
   - DOMAIN-SUFFIX,clouddn.com,DIRECT
   - DOMAIN-SUFFIX,cloudxns.com,DIRECT
   - DOMAIN-SUFFIX,cmbchina.com,DIRECT
@@ -1463,6 +1469,7 @@
   - DOMAIN-SUFFIX,ddooo.com,DIRECT
   - DOMAIN-SUFFIX,dedecms.com,DIRECT
   - DOMAIN-SUFFIX,develenv.com,DIRECT
+  - DOMAIN-SUFFIX,dgphospital.com,DIRECT
   - DOMAIN-SUFFIX,dgtle.com,DIRECT
   - DOMAIN-SUFFIX,dianchacha.com,DIRECT
   - DOMAIN-SUFFIX,diandian.com,DIRECT
@@ -1480,6 +1487,7 @@
   - DOMAIN-SUFFIX,dogedoge.com,DIRECT
   - DOMAIN-SUFFIX,donews.com,DIRECT
   - DOMAIN-SUFFIX,dongao.com,DIRECT
+  - DOMAIN-SUFFIX,dongguantoday.com,DIRECT
   - DOMAIN-SUFFIX,dopa.com,DIRECT
   - DOMAIN-SUFFIX,douban.com,DIRECT
   - DOMAIN-SUFFIX,douban.fm,DIRECT
@@ -1541,6 +1549,9 @@
   - DOMAIN-SUFFIX,gamersky.com,DIRECT
   - DOMAIN-SUFFIX,gaodun.com,DIRECT
   - DOMAIN-SUFFIX,gaoshouyou.com,DIRECT
+  - DOMAIN-SUFFIX,gaoxiaojob.com,DIRECT
+  - DOMAIN-SUFFIX,gdjdxy.com,DIRECT
+  - DOMAIN-SUFFIX,gdrc.com,DIRECT
   - DOMAIN-SUFFIX,geekpark.net,DIRECT
   - DOMAIN-SUFFIX,geetest.com,DIRECT
   - DOMAIN-SUFFIX,geilicdn.com,DIRECT
@@ -1579,6 +1590,7 @@
   - DOMAIN-SUFFIX,hackhome.com,DIRECT
   - DOMAIN-SUFFIX,haishun.com,DIRECT
   - DOMAIN-SUFFIX,hanboshi.com,DIRECT
+  - DOMAIN-SUFFIX,handanjob.com,DIRECT
   - DOMAIN-SUFFIX,hao123.com,DIRECT
   - DOMAIN-SUFFIX,hao123img.com,DIRECT
   - DOMAIN-SUFFIX,haote.com,DIRECT
@@ -1594,6 +1606,7 @@
   - DOMAIN-SUFFIX,hktheone.com,DIRECT
   - DOMAIN-SUFFIX,hn-cbec.com,DIRECT
   - DOMAIN-SUFFIX,hnair.com,DIRECT
+  - DOMAIN-SUFFIX,hnrcsc.com,DIRECT
   - DOMAIN-SUFFIX,hntv.tv,DIRECT
   - DOMAIN-SUFFIX,hnyuyuhui.com,DIRECT
   - DOMAIN-SUFFIX,hollycrm.com,DIRECT
@@ -1681,6 +1694,8 @@
   - DOMAIN-SUFFIX,jj20.com,DIRECT
   - DOMAIN-SUFFIX,jjwxc.net,DIRECT
   - DOMAIN-SUFFIX,jmstatic.com,DIRECT
+  - DOMAIN-SUFFIX,job910.com,DIRECT
+  - DOMAIN-SUFFIX,jobjm.com,DIRECT
   - DOMAIN-SUFFIX,jsbc.com,DIRECT
   - DOMAIN-SUFFIX,jsrdgg.com,DIRECT
   - DOMAIN-SUFFIX,jstv.com,DIRECT
@@ -1752,6 +1767,7 @@
   - DOMAIN-SUFFIX,linuxidc.com,DIRECT
   - DOMAIN-SUFFIX,liulanqi.net,DIRECT
   - DOMAIN-SUFFIX,liuxiaoer.com,DIRECT
+  - DOMAIN-SUFFIX,live800.com,DIRECT
   - DOMAIN-SUFFIX,lixinger.com,DIRECT
   - DOMAIN-SUFFIX,lkkbrand.com,DIRECT
   - DOMAIN-SUFFIX,longhoo.net,DIRECT
@@ -1918,8 +1934,10 @@
   - DOMAIN-SUFFIX,seniverse.com,DIRECT
   - DOMAIN-SUFFIX,senlinjimore.com,DIRECT
   - DOMAIN-SUFFIX,sgamer.com,DIRECT
+  - DOMAIN-SUFFIX,shanghairc.com,DIRECT
   - DOMAIN-SUFFIX,shangzhibo.tv,DIRECT
   - DOMAIN-SUFFIX,sharejs.com,DIRECT
+  - DOMAIN-SUFFIX,shengdaosoft.com,DIRECT
   - DOMAIN-SUFFIX,shenmayouxi.com,DIRECT
   - DOMAIN-SUFFIX,sheui.com,DIRECT
   - DOMAIN-SUFFIX,shijiexia.com,DIRECT
@@ -1955,6 +1973,7 @@
   - DOMAIN-SUFFIX,starbaby.com,DIRECT
   - DOMAIN-SUFFIX,staticfile.org,DIRECT
   - DOMAIN-SUFFIX,stockstar.com,DIRECT
+  - DOMAIN-SUFFIX,sun0769.com,DIRECT
   - DOMAIN-SUFFIX,sunrtb.com,DIRECT
   - DOMAIN-SUFFIX,supermap.com,DIRECT
   - DOMAIN-SUFFIX,supermapcloud.com,DIRECT
@@ -2039,6 +2058,7 @@
   - DOMAIN-SUFFIX,weiyangx.com,DIRECT
   - DOMAIN-SUFFIX,welltrend-edu.com,DIRECT
   - DOMAIN-SUFFIX,wenjuan.com,DIRECT
+  - DOMAIN-SUFFIX,wicresoft.com,DIRECT
   - DOMAIN-SUFFIX,win007.com,DIRECT
   - DOMAIN-SUFFIX,win8.net,DIRECT
   - DOMAIN-SUFFIX,windows10zj.com,DIRECT
@@ -2123,6 +2143,7 @@
   - DOMAIN-SUFFIX,yixi.tv,DIRECT
   - DOMAIN-SUFFIX,yizhibo.com,DIRECT
   - DOMAIN-SUFFIX,yjbys.com,DIRECT
+  - DOMAIN-SUFFIX,ynhr.com,DIRECT
   - DOMAIN-SUFFIX,yocajr.com,DIRECT
   - DOMAIN-SUFFIX,youboy.com,DIRECT
   - DOMAIN-SUFFIX,youjiao.com,DIRECT
@@ -2174,6 +2195,7 @@
   - DOMAIN-SUFFIX,zhidx.com,DIRECT
   - DOMAIN-SUFFIX,zhipin.com,DIRECT
   - DOMAIN-SUFFIX,zhiziyun.com,DIRECT
+  - DOMAIN-SUFFIX,zhongkao.com,DIRECT
   - DOMAIN-SUFFIX,zhuangjiba.com,DIRECT
   - DOMAIN-SUFFIX,zhuanyewanjia.com,DIRECT
   - DOMAIN-SUFFIX,zhuayoukong.com,DIRECT
@@ -2213,6 +2235,7 @@
   - DOMAIN-SUFFIX,taboola.com,REJECT
   - DOMAIN,apilog-web.acfun.cn,REJECT
   - DOMAIN-SUFFIX,adcolony.com,REJECT
+  - DOMAIN-SUFFIX,adjust.com,REJECT
   - DOMAIN-SUFFIX,a.alimama.cn,REJECT
   - DOMAIN-SUFFIX,acjs.aliyun.com,REJECT
   - DOMAIN-SUFFIX,adash.m.taobao.com,REJECT
@@ -2307,6 +2330,9 @@
   - DOMAIN-SUFFIX,qwapi.com,REJECT
   - DOMAIN-SUFFIX,applovin.com,REJECT
   - DOMAIN-SUFFIX,applvn.com,REJECT
+  - DOMAIN-SUFFIX,atom-data.io,REJECT
+  - DOMAIN-SUFFIX,analytics-data.io,REJECT
+  - DOMAIN-SUFFIX,ironbeast.io,REJECT
   - DOMAIN-SUFFIX,a.baidu.com,REJECT
   - DOMAIN-SUFFIX,ad.duapps.com,REJECT
   - DOMAIN-SUFFIX,ad.player.baidu.com,REJECT
@@ -2479,6 +2505,7 @@
   - DOMAIN-SUFFIX,microad.co.jp,REJECT
   - DOMAIN-SUFFIX,microad.jp,REJECT
   - DOMAIN-SUFFIX,socdm.com,REJECT
+  - DOMAIN-SUFFIX,emogi.com,REJECT
   - DOMAIN-SUFFIX,data.flurry.com,REJECT
   - DOMAIN-SUFFIX,admob.com,REJECT
   - DOMAIN-SUFFIX,adsense.com,REJECT
@@ -2535,6 +2562,7 @@
   - DOMAIN-SUFFIX,img-x.jd.com,REJECT
   - DOMAIN,log-sdk.gifshow.com,REJECT
   - DOMAIN,wlog.kuaishou.com,REJECT
+  - DOMAIN-SUFFIX,leanplum.com,REJECT
   - DOMAIN-SUFFIX,api.game.letvstore.com,REJECT
   - DOMAIN-SUFFIX,ark.letv.com,REJECT
   - DOMAIN-SUFFIX,dc.letv.com,REJECT
@@ -2554,6 +2582,9 @@
   - DOMAIN-SUFFIX,mopub.com,REJECT
   - DOMAIN-SUFFIX,evt.mxplay.com,REJECT
   - DOMAIN-SUFFIX,g.163.com,REJECT
+  - DOMAIN-SUFFIX,ogury.com,REJECT
+  - DOMAIN-SUFFIX,presage.io,REJECT
+  - DOMAIN-SUFFIX,ogury.co,REJECT
   - DOMAIN-SUFFIX,onesignal.com,REJECT
   - DOMAIN-SUFFIX,ads.pubmatic.com,REJECT
   - DOMAIN-SUFFIX,cdn.segment.com,REJECT
@@ -2656,6 +2687,10 @@
   - DOMAIN-SUFFIX,v2.reachmax.cn,REJECT
   - DOMAIN,e8aeb8bbdbbd7.cdn.sohucs.com,REJECT
   - DOMAIN,643108e7617ef.cdn.sohucs.com,REJECT
+  - DOMAIN-SUFFIX,supersonic.com,REJECT
+  - DOMAIN-SUFFIX,supersonicads.com,REJECT
+  - DOMAIN-SUFFIX,ssacdn.com,REJECT
+  - DOMAIN-SUFFIX,supersonicads-a.akamaihd.net,REJECT
   - DOMAIN-SUFFIX,ssp.api.tappx.com,REJECT
   - DOMAIN-SUFFIX,ad.qq.com,REJECT
   - DOMAIN-SUFFIX,ad.qun.qq.com,REJECT
@@ -2747,12 +2782,13 @@
   - DOMAIN-SUFFIX,test.sdk.m.youku.com,REJECT
   - DOMAIN-SUFFIX,v.l.youku.com,REJECT
   - DOMAIN-SUFFIX,val.api.youku.com,REJECT
-  - DOMAIN-SUFFIX,vali.cp31.ott.cibntv.net,REJECT
   - DOMAIN-SUFFIX,wan.youku.com,REJECT
   - DOMAIN-SUFFIX,ykatr.youku.com,REJECT
   - DOMAIN-SUFFIX,ykrec.youku.com,REJECT
   - DOMAIN-SUFFIX,cvnad.com,REJECT
   - DOMAIN-SUFFIX,iyoowi.com,REJECT
+  - DOMAIN-SUFFIX,zynga.com,REJECT
+  - DOMAIN-SUFFIX,zyngaplayersupport.com,REJECT
   - DOMAIN-SUFFIX,51y5.net,REJECT
   - DOMAIN-SUFFIX,a.adtng.com,REJECT
   - DOMAIN-SUFFIX,aaxads.com,REJECT
