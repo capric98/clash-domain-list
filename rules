@@ -535,6 +535,20 @@
   - DOMAIN-SUFFIX,365yg.com,DIRECT
   - DOMAIN-SUFFIX,csdl.ac.cn,DIRECT
   - DOMAIN-SUFFIX,las.ac.cn,DIRECT
+  - DOMAIN-SUFFIX,cctv.cn,DIRECT
+  - DOMAIN-SUFFIX,cctv.com,DIRECT
+  - DOMAIN-SUFFIX,cctvpic.com,DIRECT
+  - DOMAIN-SUFFIX,chinalive.com,DIRECT
+  - DOMAIN-SUFFIX,cntv.cn,DIRECT
+  - DOMAIN-SUFFIX,cntv.com.cn,DIRECT
+  - DOMAIN-SUFFIX,cntvwb.cn,DIRECT
+  - DOMAIN-SUFFIX,ipanda.cn,DIRECT
+  - DOMAIN-SUFFIX,ipanda.com,DIRECT
+  - DOMAIN-SUFFIX,ipanda.com.cn,DIRECT
+  - DOMAIN-SUFFIX,ipanda.net,DIRECT
+  - DOMAIN-SUFFIX,livechina.cn,DIRECT
+  - DOMAIN-SUFFIX,livechina.com,DIRECT
+  - DOMAIN-SUFFIX,olympicchannelchina.cn,DIRECT
   - DOMAIN-SUFFIX,10086.cn,DIRECT
   - DOMAIN-SUFFIX,139.com,DIRECT
   - DOMAIN-SUFFIX,chinamobile.com,DIRECT
@@ -1199,6 +1213,7 @@
   - DOMAIN-SUFFIX,123juzi.net,DIRECT
   - DOMAIN-SUFFIX,123u.com,DIRECT
   - DOMAIN-SUFFIX,1637.com,DIRECT
+  - DOMAIN-SUFFIX,16888.com,DIRECT
   - DOMAIN-SUFFIX,16rd.com,DIRECT
   - DOMAIN-SUFFIX,17173.com,DIRECT
   - DOMAIN-SUFFIX,178linux.com,DIRECT
@@ -1311,6 +1326,7 @@
   - DOMAIN-SUFFIX,agrantsem.com,DIRECT
   - DOMAIN-SUFFIX,aicdn.com,DIRECT
   - DOMAIN-SUFFIX,aiemy.com,DIRECT
+  - DOMAIN-SUFFIX,aiketour.com,DIRECT
   - DOMAIN-SUFFIX,aiops.com,DIRECT
   - DOMAIN-SUFFIX,aipai.com,DIRECT
   - DOMAIN-SUFFIX,airchangan.com,DIRECT
@@ -1326,6 +1342,8 @@
   - DOMAIN-SUFFIX,anquan.org,DIRECT
   - DOMAIN-SUFFIX,anruan.com,DIRECT
   - DOMAIN-SUFFIX,antutu.com,DIRECT
+  - DOMAIN-SUFFIX,aotrip.net,DIRECT
+  - DOMAIN-SUFFIX,aoyou.com,DIRECT
   - DOMAIN-SUFFIX,apk3.com,DIRECT
   - DOMAIN-SUFFIX,apk8.com,DIRECT
   - DOMAIN-SUFFIX,appinn.com,DIRECT
@@ -1381,8 +1399,6 @@
   - DOMAIN-SUFFIX,cardbaobao.com,DIRECT
   - DOMAIN-SUFFIX,carnoc.com,DIRECT
   - DOMAIN-SUFFIX,ccb.com,DIRECT
-  - DOMAIN-SUFFIX,cctv.com,DIRECT
-  - DOMAIN-SUFFIX,cctvpic.com,DIRECT
   - DOMAIN-SUFFIX,cdn20.com,DIRECT
   - DOMAIN-SUFFIX,cebbank.com,DIRECT
   - DOMAIN-SUFFIX,cecdc.com,DIRECT
@@ -1447,6 +1463,7 @@
   - DOMAIN-SUFFIX,cyagen.com,DIRECT
   - DOMAIN-SUFFIX,cybtc.com,DIRECT
   - DOMAIN-SUFFIX,cyol.com,DIRECT
+  - DOMAIN-SUFFIX,cyts.com,DIRECT
   - DOMAIN-SUFFIX,cztv.com,DIRECT
   - DOMAIN-SUFFIX,cztvcloud.com,DIRECT
   - DOMAIN-SUFFIX,dadajiasu.com,DIRECT
@@ -1496,6 +1513,7 @@
   - DOMAIN-SUFFIX,downcc.com,DIRECT
   - DOMAIN-SUFFIX,downyi.com,DIRECT
   - DOMAIN-SUFFIX,dpfile.com,DIRECT
+  - DOMAIN-SUFFIX,dreams-travel.com,DIRECT
   - DOMAIN-SUFFIX,drivergenius.com,DIRECT
   - DOMAIN-SUFFIX,dui.ai,DIRECT
   - DOMAIN-SUFFIX,duiopen.com,DIRECT
@@ -1540,6 +1558,7 @@
   - DOMAIN-SUFFIX,fenxi.com,DIRECT
   - DOMAIN-SUFFIX,fhldns.com,DIRECT
   - DOMAIN-SUFFIX,fimmu.com,DIRECT
+  - DOMAIN-SUFFIX,finchina.com,DIRECT
   - DOMAIN-SUFFIX,fixdown.com,DIRECT
   - DOMAIN-SUFFIX,freebuf.com,DIRECT
   - DOMAIN-SUFFIX,fugetech.com,DIRECT
@@ -1595,6 +1614,7 @@
   - DOMAIN-SUFFIX,hao123img.com,DIRECT
   - DOMAIN-SUFFIX,haote.com,DIRECT
   - DOMAIN-SUFFIX,haoyouyinxiang.com,DIRECT
+  - DOMAIN-SUFFIX,hefei.cc,DIRECT
   - DOMAIN-SUFFIX,heisha.net,DIRECT
   - DOMAIN-SUFFIX,henha.com,DIRECT
   - DOMAIN-SUFFIX,henkuai.com,DIRECT
@@ -1650,8 +1670,8 @@
   - DOMAIN-SUFFIX,indienova.com,DIRECT
   - DOMAIN-SUFFIX,infoq.com,DIRECT
   - DOMAIN-SUFFIX,infoqstatic.com,DIRECT
-  - DOMAIN-SUFFIX,ip138.com,DIRECT
   - DOMAIN-SUFFIX,ip-cdn.com,DIRECT
+  - DOMAIN-SUFFIX,ip138.com,DIRECT
   - DOMAIN-SUFFIX,ipinyou.com,DIRECT
   - DOMAIN-SUFFIX,ipip.net,DIRECT
   - DOMAIN-SUFFIX,iranshao.com,DIRECT
@@ -1936,6 +1956,7 @@
   - DOMAIN-SUFFIX,sgamer.com,DIRECT
   - DOMAIN-SUFFIX,shanghairc.com,DIRECT
   - DOMAIN-SUFFIX,shangzhibo.tv,DIRECT
+  - DOMAIN-SUFFIX,shanshuihotel.com,DIRECT
   - DOMAIN-SUFFIX,sharejs.com,DIRECT
   - DOMAIN-SUFFIX,shengdaosoft.com,DIRECT
   - DOMAIN-SUFFIX,shenmayouxi.com,DIRECT
@@ -1966,6 +1987,7 @@
   - DOMAIN-SUFFIX,soso.com,DIRECT
   - DOMAIN-SUFFIX,souqian.com,DIRECT
   - DOMAIN-SUFFIX,southmoney.com,DIRECT
+  - DOMAIN-SUFFIX,sparkletour.com,DIRECT
   - DOMAIN-SUFFIX,springtour.com,DIRECT
   - DOMAIN-SUFFIX,sspai.com,DIRECT
   - DOMAIN-SUFFIX,ssports.com,DIRECT
@@ -2003,6 +2025,7 @@
   - DOMAIN-SUFFIX,tongdun.net,DIRECT
   - DOMAIN-SUFFIX,topthink.com,DIRECT
   - DOMAIN-SUFFIX,travelsky.com,DIRECT
+  - DOMAIN-SUFFIX,trunktech.com,DIRECT
   - DOMAIN-SUFFIX,trustutn.org,DIRECT
   - DOMAIN-SUFFIX,tudou.com,DIRECT
   - DOMAIN-SUFFIX,tudouui.com,DIRECT
@@ -2076,6 +2099,7 @@
   - DOMAIN-SUFFIX,wqiis.com,DIRECT
   - DOMAIN-SUFFIX,wrating.com,DIRECT
   - DOMAIN-SUFFIX,wscdns.com,DIRECT
+  - DOMAIN-SUFFIX,wtown.com,DIRECT
   - DOMAIN-SUFFIX,wumii.com,DIRECT
   - DOMAIN-SUFFIX,wuximediaglobal.com,DIRECT
   - DOMAIN-SUFFIX,xafc.com,DIRECT
@@ -2149,6 +2173,7 @@
   - DOMAIN-SUFFIX,youjiao.com,DIRECT
   - DOMAIN-SUFFIX,youke.co,DIRECT
   - DOMAIN-SUFFIX,youshang.com,DIRECT
+  - DOMAIN-SUFFIX,youxiake.com,DIRECT
   - DOMAIN-SUFFIX,youxihezi.net,DIRECT
   - DOMAIN-SUFFIX,youxila.com,DIRECT
   - DOMAIN-SUFFIX,youxiniao.com,DIRECT
@@ -2183,6 +2208,7 @@
   - DOMAIN-SUFFIX,zdmimg.com,DIRECT
   - DOMAIN-SUFFIX,zgjm.org,DIRECT
   - DOMAIN-SUFFIX,zgjsks.com,DIRECT
+  - DOMAIN-SUFFIX,zglxw.com,DIRECT
   - DOMAIN-SUFFIX,zgzcw.com,DIRECT
   - DOMAIN-SUFFIX,zhanbuba.com,DIRECT
   - DOMAIN-SUFFIX,zhanzhang.net,DIRECT
@@ -2193,6 +2219,7 @@
   - DOMAIN-SUFFIX,zhenai.com,DIRECT
   - DOMAIN-SUFFIX,zhibo8.cc,DIRECT
   - DOMAIN-SUFFIX,zhidx.com,DIRECT
+  - DOMAIN-SUFFIX,zhifang.com,DIRECT
   - DOMAIN-SUFFIX,zhipin.com,DIRECT
   - DOMAIN-SUFFIX,zhiziyun.com,DIRECT
   - DOMAIN-SUFFIX,zhongkao.com,DIRECT
