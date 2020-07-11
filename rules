@@ -35,6 +35,10 @@
   - DOMAIN,apilog-web.acfun.cn,DIRECT
   - DOMAIN-SUFFIX,acplay.net,DIRECT
   - DOMAIN-SUFFIX,dandanplay.com,DIRECT
+  - DOMAIN-SUFFIX,alibaba,DIRECT
+  - DOMAIN-SUFFIX,alipay,DIRECT
+  - DOMAIN-SUFFIX,taobao,DIRECT
+  - DOMAIN-SUFFIX,tmall,DIRECT
   - DOMAIN-SUFFIX,a.alimama.cn,DIRECT
   - DOMAIN-SUFFIX,acjs.aliyun.com,DIRECT
   - DOMAIN-SUFFIX,adash.m.taobao.com,DIRECT
@@ -151,6 +155,9 @@
   - DOMAIN-SUFFIX,dingtalkapps.com,DIRECT
   - DOMAIN-SUFFIX,laiwang.com,DIRECT
   - DOMAIN-SUFFIX,lwurl.to,DIRECT
+  - DOMAIN-SUFFIX,ele.me,DIRECT
+  - DOMAIN-SUFFIX,elemecdn.com,DIRECT
+  - DOMAIN-SUFFIX,eleme.cn,DIRECT
   - DOMAIN-SUFFIX,teambition.com,DIRECT
   - DOMAIN-SUFFIX,teambition.net,DIRECT
   - DOMAIN-SUFFIX,teambitionapis.com,DIRECT
@@ -291,11 +298,13 @@
   - DOMAIN-SUFFIX,xiami.com,DIRECT
   - DOMAIN-SUFFIX,xiami.fm,DIRECT
   - DOMAIN-SUFFIX,xiami.net,DIRECT
+  - DOMAIN-SUFFIX,baidu,DIRECT
   - DOMAIN-SUFFIX,91.com,DIRECT
   - DOMAIN-SUFFIX,aipage.com,DIRECT
   - DOMAIN-SUFFIX,apollo.auto,DIRECT
   - DOMAIN-SUFFIX,baidu.cn,DIRECT
   - DOMAIN-SUFFIX,baidu.com,DIRECT
+  - DOMAIN-SUFFIX,baidu.com.cn,DIRECT
   - DOMAIN-SUFFIX,baidubce.com,DIRECT
   - DOMAIN-SUFFIX,baiducontent.com,DIRECT
   - DOMAIN-SUFFIX,baidupcs.com,DIRECT
@@ -671,6 +680,10 @@
   - DOMAIN-SUFFIX,hupucdn.com,DIRECT
   - DOMAIN-SUFFIX,huya.com,DIRECT
   - DOMAIN-SUFFIX,msstatic.com,DIRECT
+  - DOMAIN-SUFFIX,icbc,DIRECT
+  - DOMAIN-SUFFIX,icbc-ltd.com,DIRECT
+  - DOMAIN-SUFFIX,icbc-us.com,DIRECT
+  - DOMAIN-SUFFIX,icbc.com.cn,DIRECT
   - DOMAIN-SUFFIX,coolbuy.com,DIRECT
   - DOMAIN-SUFFIX,ifanr.com,DIRECT
   - DOMAIN-SUFFIX,ifanr.in,DIRECT
@@ -1179,6 +1192,9 @@
   - DOMAIN-SUFFIX,xiaomi.com,DIRECT
   - DOMAIN-SUFFIX,xiaomi.net,DIRECT
   - DOMAIN-SUFFIX,xiaomiyoupin.com,DIRECT
+  - DOMAIN-SUFFIX,speiyou.com,DIRECT
+  - DOMAIN-SUFFIX,xesimg.com,DIRECT
+  - DOMAIN-SUFFIX,xueersi.com,DIRECT
   - DOMAIN-SUFFIX,danjuanfunds.com,DIRECT
   - DOMAIN-SUFFIX,xueqiu.com,DIRECT
   - DOMAIN-SUFFIX,00cdn.com,DIRECT
@@ -1208,6 +1224,8 @@
   - DOMAIN-SUFFIX,zhihu.com,DIRECT
   - DOMAIN-SUFFIX,zhimg.com,DIRECT
   - DOMAIN-SUFFIX,zhihuishu.com,DIRECT
+  - DOMAIN-SUFFIX,ziroom.com,DIRECT
+  - DOMAIN-SUFFIX,ziroomapartment.com,DIRECT
   - DOMAIN-SUFFIX,ksyun.com,DIRECT
   - DOMAIN-SUFFIX,ksyungslb.com,DIRECT
   - DOMAIN-SUFFIX,ourdvsss.com,DIRECT
@@ -1238,6 +1256,7 @@
   - DOMAIN-SUFFIX,178linux.com,DIRECT
   - DOMAIN-SUFFIX,17989.com,DIRECT
   - DOMAIN-SUFFIX,17cdn.com,DIRECT
+  - DOMAIN-SUFFIX,17house.com,DIRECT
   - DOMAIN-SUFFIX,18183.com,DIRECT
   - DOMAIN-SUFFIX,188.com,DIRECT
   - DOMAIN-SUFFIX,1905.com,DIRECT
@@ -1268,6 +1287,7 @@
   - DOMAIN-SUFFIX,360doc.com,DIRECT
   - DOMAIN-SUFFIX,360jq.com,DIRECT
   - DOMAIN-SUFFIX,360zhyx.com,DIRECT
+  - DOMAIN-SUFFIX,365azw.com,DIRECT
   - DOMAIN-SUFFIX,365dmp.com,DIRECT
   - DOMAIN-SUFFIX,36kr.com,DIRECT
   - DOMAIN-SUFFIX,37.com,DIRECT
@@ -1344,6 +1364,7 @@
   - DOMAIN-SUFFIX,a9vg.com,DIRECT
   - DOMAIN-SUFFIX,aardio.com,DIRECT
   - DOMAIN-SUFFIX,adxvip.com,DIRECT
+  - DOMAIN-SUFFIX,afzhan.com,DIRECT
   - DOMAIN-SUFFIX,agrantsem.com,DIRECT
   - DOMAIN-SUFFIX,aicdn.com,DIRECT
   - DOMAIN-SUFFIX,aiemy.com,DIRECT
@@ -1412,6 +1433,7 @@
   - DOMAIN-SUFFIX,btcfans.com,DIRECT
   - DOMAIN-SUFFIX,btgtravel.com,DIRECT
   - DOMAIN-SUFFIX,bthhotels.com,DIRECT
+  - DOMAIN-SUFFIX,btime.com,DIRECT
   - DOMAIN-SUFFIX,cabbagebox.com,DIRECT
   - DOMAIN-SUFFIX,caijingwu.com,DIRECT
   - DOMAIN-SUFFIX,caixin.com,DIRECT
@@ -1434,6 +1456,7 @@
   - DOMAIN-SUFFIX,chazhengla.com,DIRECT
   - DOMAIN-SUFFIX,che168.com,DIRECT
   - DOMAIN-SUFFIX,china-chair.com,DIRECT
+  - DOMAIN-SUFFIX,china-nengyuan.com,DIRECT
   - DOMAIN-SUFFIX,china.com,DIRECT
   - DOMAIN-SUFFIX,chinacache.com,DIRECT
   - DOMAIN-SUFFIX,chinacache.net,DIRECT
@@ -1519,6 +1542,7 @@
   - DOMAIN-SUFFIX,ddooo.com,DIRECT
   - DOMAIN-SUFFIX,dedecms.com,DIRECT
   - DOMAIN-SUFFIX,develenv.com,DIRECT
+  - DOMAIN-SUFFIX,dginfo.com,DIRECT
   - DOMAIN-SUFFIX,dgphospital.com,DIRECT
   - DOMAIN-SUFFIX,dgtle.com,DIRECT
   - DOMAIN-SUFFIX,dianchacha.com,DIRECT
@@ -1565,12 +1589,15 @@
   - DOMAIN-SUFFIX,eastday.com,DIRECT
   - DOMAIN-SUFFIX,eastmoney.com,DIRECT
   - DOMAIN-SUFFIX,eayyou.com,DIRECT
+  - DOMAIN-SUFFIX,ebico.com,DIRECT
   - DOMAIN-SUFFIX,ebrun.com,DIRECT
   - DOMAIN-SUFFIX,ecitic.com,DIRECT
+  - DOMAIN-SUFFIX,ecjobhome.com,DIRECT
   - DOMAIN-SUFFIX,edu.cn,DIRECT
   - DOMAIN-SUFFIX,eduei.com,DIRECT
   - DOMAIN-SUFFIX,eeyy.com,DIRECT
   - DOMAIN-SUFFIX,eflycloud.com,DIRECT
+  - DOMAIN-SUFFIX,elecfans.com,DIRECT
   - DOMAIN-SUFFIX,emarbox.com,DIRECT
   - DOMAIN-SUFFIX,emumax.com,DIRECT
   - DOMAIN-SUFFIX,eoeandroid.com,DIRECT
@@ -1603,6 +1630,7 @@
   - DOMAIN-SUFFIX,gaoshouyou.com,DIRECT
   - DOMAIN-SUFFIX,gaoxiaojob.com,DIRECT
   - DOMAIN-SUFFIX,gdjdxy.com,DIRECT
+  - DOMAIN-SUFFIX,gdliontech.com,DIRECT
   - DOMAIN-SUFFIX,gdrc.com,DIRECT
   - DOMAIN-SUFFIX,geekpark.net,DIRECT
   - DOMAIN-SUFFIX,geetest.com,DIRECT
@@ -1632,6 +1660,7 @@
   - DOMAIN-SUFFIX,gucheng.com,DIRECT
   - DOMAIN-SUFFIX,guigu.org,DIRECT
   - DOMAIN-SUFFIX,guokr.com,DIRECT
+  - DOMAIN-SUFFIX,guoxinmac.com,DIRECT
   - DOMAIN-SUFFIX,gupzs.com,DIRECT
   - DOMAIN-SUFFIX,gushiwen.org,DIRECT
   - DOMAIN-SUFFIX,guzhangting.com,DIRECT
@@ -1654,6 +1683,7 @@
   - DOMAIN-SUFFIX,heisha.net,DIRECT
   - DOMAIN-SUFFIX,henha.com,DIRECT
   - DOMAIN-SUFFIX,henkuai.com,DIRECT
+  - DOMAIN-SUFFIX,herostart.com,DIRECT
   - DOMAIN-SUFFIX,hexun.com,DIRECT
   - DOMAIN-SUFFIX,heytea.com,DIRECT
   - DOMAIN-SUFFIX,hiido.com,DIRECT
@@ -1686,6 +1716,7 @@
   - DOMAIN-SUFFIX,hxfy888.com,DIRECT
   - DOMAIN-SUFFIX,iask.com,DIRECT
   - DOMAIN-SUFFIX,ibaotu.com,DIRECT
+  - DOMAIN-SUFFIX,ibuychem.com,DIRECT
   - DOMAIN-SUFFIX,icaidao.com,DIRECT
   - DOMAIN-SUFFIX,ichangtou.com,DIRECT
   - DOMAIN-SUFFIX,iciba.com,DIRECT
@@ -1792,6 +1823,7 @@
   - DOMAIN-SUFFIX,kuaizhan.com,DIRECT
   - DOMAIN-SUFFIX,kugou.com,DIRECT
   - DOMAIN-SUFFIX,kuqin.com,DIRECT
+  - DOMAIN-SUFFIX,kuyiso.com,DIRECT
   - DOMAIN-SUFFIX,lady8844.com,DIRECT
   - DOMAIN-SUFFIX,laomaotao.net,DIRECT
   - DOMAIN-SUFFIX,laomaotao.org,DIRECT
@@ -1821,6 +1853,7 @@
   - DOMAIN-SUFFIX,likuso.com,DIRECT
   - DOMAIN-SUFFIX,lingkou.com,DIRECT
   - DOMAIN-SUFFIX,linkvans.com,DIRECT
+  - DOMAIN-SUFFIX,linsn.com,DIRECT
   - DOMAIN-SUFFIX,linuxidc.com,DIRECT
   - DOMAIN-SUFFIX,liulanqi.net,DIRECT
   - DOMAIN-SUFFIX,liuxiaoer.com,DIRECT
@@ -1906,6 +1939,7 @@
   - DOMAIN-SUFFIX,oadz.com,DIRECT
   - DOMAIN-SUFFIX,oeeee.com,DIRECT
   - DOMAIN-SUFFIX,offcn.com,DIRECT
+  - DOMAIN-SUFFIX,officese.com,DIRECT
   - DOMAIN-SUFFIX,oicq88.com,DIRECT
   - DOMAIN-SUFFIX,okooo.com,DIRECT
   - DOMAIN-SUFFIX,ol-cdn.com,DIRECT
@@ -1913,6 +1947,7 @@
   - DOMAIN-SUFFIX,oldboyedu.com,DIRECT
   - DOMAIN-SUFFIX,oneapm.com,DIRECT
   - DOMAIN-SUFFIX,onegreen.net,DIRECT
+  - DOMAIN-SUFFIX,oneyac.com,DIRECT
   - DOMAIN-SUFFIX,onlinedown.net,DIRECT
   - DOMAIN-SUFFIX,onlinesjtu.com,DIRECT
   - DOMAIN-SUFFIX,opdown.com,DIRECT
