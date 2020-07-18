@@ -978,18 +978,25 @@
   - DOMAIN-SUFFIX,sfgy.org,DIRECT
   - DOMAIN-SUFFIX,sfacg.com,DIRECT
   - DOMAIN-SUFFIX,97973.com,DIRECT
-  - DOMAIN-SUFFIX,sina.com,DIRECT
-  - DOMAIN-SUFFIX,sinaimg.cn,DIRECT
-  - DOMAIN-SUFFIX,sina.com.cn,DIRECT
-  - DOMAIN-SUFFIX,sinajs.cn,DIRECT
+  - DOMAIN-SUFFIX,picself.cn,DIRECT
   - DOMAIN-SUFFIX,sina.cn,DIRECT
+  - DOMAIN-SUFFIX,sina.com,DIRECT
+  - DOMAIN-SUFFIX,sina.com.cn,DIRECT
+  - DOMAIN-SUFFIX,sina.net,DIRECT
   - DOMAIN-SUFFIX,sinaapp.com,DIRECT
   - DOMAIN-SUFFIX,sinaedge.com,DIRECT
+  - DOMAIN-SUFFIX,sinaimg.cn,DIRECT
   - DOMAIN-SUFFIX,sinaimg.com,DIRECT
+  - DOMAIN-SUFFIX,sinajs.cn,DIRECT
   - DOMAIN-SUFFIX,sinajs.com,DIRECT
+  - DOMAIN-SUFFIX,t.cn,DIRECT
+  - DOMAIN-SUFFIX,videoself.cn,DIRECT
+  - DOMAIN-SUFFIX,wbimg.com,DIRECT
+  - DOMAIN-SUFFIX,wbimg.cn,DIRECT
+  - DOMAIN-SUFFIX,wcdn.cn,DIRECT
+  - DOMAIN-SUFFIX,weibo.cn,DIRECT
   - DOMAIN-SUFFIX,weibo.com,DIRECT
   - DOMAIN-SUFFIX,weibo.com.cn,DIRECT
-  - DOMAIN-SUFFIX,weibo.cn,DIRECT
   - DOMAIN-SUFFIX,weibocdn.com,DIRECT
   - DOMAIN-SUFFIX,xhaiwai.com,DIRECT
   - DOMAIN-SUFFIX,2016.sina.cn,DIRECT
@@ -1094,8 +1101,41 @@
   - DOMAIN-SUFFIX,taikanglife.com,DIRECT
   - DOMAIN-SUFFIX,taikangzhijia.com,DIRECT
   - DOMAIN-SUFFIX,tkhealthcare.com,DIRECT
+  - DOMAIN-SUFFIX,61.com,DIRECT
+  - DOMAIN-SUFFIX,taomee.com,DIRECT
   - DOMAIN-SUFFIX,tapimg.com,DIRECT
   - DOMAIN-SUFFIX,taptap.com,DIRECT
+  - DOMAIN-SUFFIX,ad.qq.com,DIRECT
+  - DOMAIN-SUFFIX,ad.qun.qq.com,DIRECT
+  - DOMAIN-SUFFIX,adfilter.imtt.qq.com,DIRECT
+  - DOMAIN-SUFFIX,adping.qq.com,DIRECT
+  - DOMAIN-SUFFIX,adpm.app.qq.com,DIRECT
+  - DOMAIN-SUFFIX,adsclick.qq.com,DIRECT
+  - DOMAIN-SUFFIX,adsfile.qq.com,DIRECT
+  - DOMAIN-SUFFIX,adshmmsg.qq.com,DIRECT
+  - DOMAIN-SUFFIX,adslvfile.qq.com,DIRECT
+  - DOMAIN-SUFFIX,adslvseed.qq.com,DIRECT
+  - DOMAIN-SUFFIX,adsmind.apdcdn.tc.qq.com,DIRECT
+  - DOMAIN-SUFFIX,adsqqclick.qq.com,DIRECT
+  - DOMAIN-SUFFIX,adstestview.qq.com,DIRECT
+  - DOMAIN-SUFFIX,adsview.qq.com,DIRECT
+  - DOMAIN-SUFFIX,adsview2.qq.com,DIRECT
+  - DOMAIN-SUFFIX,adv.app.qq.com,DIRECT
+  - DOMAIN-SUFFIX,adver.qq.com,DIRECT
+  - DOMAIN-SUFFIX,btrace.qq.com,DIRECT
+  - DOMAIN-SUFFIX,e.qq.com,DIRECT
+  - DOMAIN-SUFFIX,log.tbs.qq.com,DIRECT
+  - DOMAIN-SUFFIX,mpush.qq.com,DIRECT
+  - DOMAIN-SUFFIX,mtrace.qq.com,DIRECT
+  - DOMAIN-SUFFIX,push.qq.com,DIRECT
+  - DOMAIN-SUFFIX,pgdt.gtimg.cn,DIRECT
+  - DOMAIN-SUFFIX,dns.pub,DIRECT
+  - DOMAIN-SUFFIX,dnsapi.cn,DIRECT
+  - DOMAIN-SUFFIX,dnspod.cn,DIRECT
+  - DOMAIN-SUFFIX,dnspod.com,DIRECT
+  - DOMAIN-SUFFIX,dnspod.com.cn,DIRECT
+  - DOMAIN-SUFFIX,dnspod.org,DIRECT
+  - DOMAIN-SUFFIX,doh.pub,DIRECT
   - DOMAIN-SUFFIX,apcdns.net,DIRECT
   - DOMAIN-SUFFIX,foxmail.com,DIRECT
   - DOMAIN-SUFFIX,foxmail.com.cn,DIRECT
@@ -1126,30 +1166,6 @@
   - DOMAIN-SUFFIX,wechat.com,DIRECT
   - DOMAIN-SUFFIX,wegame.com,DIRECT
   - DOMAIN-SUFFIX,weiyun.com,DIRECT
-  - DOMAIN-SUFFIX,ad.qq.com,DIRECT
-  - DOMAIN-SUFFIX,ad.qun.qq.com,DIRECT
-  - DOMAIN-SUFFIX,adfilter.imtt.qq.com,DIRECT
-  - DOMAIN-SUFFIX,adping.qq.com,DIRECT
-  - DOMAIN-SUFFIX,adpm.app.qq.com,DIRECT
-  - DOMAIN-SUFFIX,adsclick.qq.com,DIRECT
-  - DOMAIN-SUFFIX,adsfile.qq.com,DIRECT
-  - DOMAIN-SUFFIX,adshmmsg.qq.com,DIRECT
-  - DOMAIN-SUFFIX,adslvfile.qq.com,DIRECT
-  - DOMAIN-SUFFIX,adslvseed.qq.com,DIRECT
-  - DOMAIN-SUFFIX,adsmind.apdcdn.tc.qq.com,DIRECT
-  - DOMAIN-SUFFIX,adsqqclick.qq.com,DIRECT
-  - DOMAIN-SUFFIX,adstestview.qq.com,DIRECT
-  - DOMAIN-SUFFIX,adsview.qq.com,DIRECT
-  - DOMAIN-SUFFIX,adsview2.qq.com,DIRECT
-  - DOMAIN-SUFFIX,adv.app.qq.com,DIRECT
-  - DOMAIN-SUFFIX,adver.qq.com,DIRECT
-  - DOMAIN-SUFFIX,btrace.qq.com,DIRECT
-  - DOMAIN-SUFFIX,e.qq.com,DIRECT
-  - DOMAIN-SUFFIX,log.tbs.qq.com,DIRECT
-  - DOMAIN-SUFFIX,mpush.qq.com,DIRECT
-  - DOMAIN-SUFFIX,mtrace.qq.com,DIRECT
-  - DOMAIN-SUFFIX,push.qq.com,DIRECT
-  - DOMAIN-SUFFIX,pgdt.gtimg.cn,DIRECT
   - DOMAIN-SUFFIX,tiancity.com,DIRECT
   - DOMAIN-SUFFIX,tiancitycdn.com,DIRECT
   - DOMAIN-SUFFIX,tipdim.org,DIRECT
