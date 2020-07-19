@@ -876,6 +876,9 @@
   - DOMAIN-SUFFIX,ydstatic.com,DIRECT
   - DOMAIN-SUFFIX,yeah.net,DIRECT
   - DOMAIN-SUFFIX,youdao.com,DIRECT
+  - DOMAIN-SUFFIX,analytics.163.com,DIRECT
+  - DOMAIN-SUFFIX,crash.163.com,DIRECT
+  - DOMAIN-SUFFIX,crashlytics.163.com,DIRECT
   - DOMAIN-SUFFIX,g.163.com,DIRECT
   - DOMAIN-SUFFIX,nga.cn,DIRECT
   - DOMAIN-SUFFIX,178.com,DIRECT
@@ -2805,6 +2808,9 @@
   - DOMAIN-SUFFIX,decide.mixpanel.com,REJECT
   - DOMAIN-SUFFIX,mopub.com,REJECT
   - DOMAIN-SUFFIX,evt.mxplay.com,REJECT
+  - DOMAIN-SUFFIX,analytics.163.com,REJECT
+  - DOMAIN-SUFFIX,crash.163.com,REJECT
+  - DOMAIN-SUFFIX,crashlytics.163.com,REJECT
   - DOMAIN-SUFFIX,g.163.com,REJECT
   - DOMAIN-SUFFIX,ogury.com,REJECT
   - DOMAIN-SUFFIX,presage.io,REJECT
