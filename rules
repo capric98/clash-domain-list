@@ -657,6 +657,18 @@
   - DOMAIN-SUFFIX,csdnimg.cn,DIRECT
   - DOMAIN-SUFFIX,gitee.com,DIRECT
   - DOMAIN-SUFFIX,jinrishici.com,DIRECT
+  - DOMAIN-SUFFIX,juejin.im,DIRECT
+  - DOMAIN,b-gold-cdn.xitu.io,DIRECT
+  - DOMAIN,mirror-gold-cdn.xitu.io,DIRECT
+  - DOMAIN,p1-juejin.byteimg.com,DIRECT
+  - DOMAIN,p2-juejin.byteimg.com,DIRECT
+  - DOMAIN,p3-juejin.byteimg.com,DIRECT
+  - DOMAIN,p4-juejin.byteimg.com,DIRECT
+  - DOMAIN,p5-juejin.byteimg.com,DIRECT
+  - DOMAIN,p6-juejin.byteimg.com,DIRECT
+  - DOMAIN,p7-juejin.byteimg.com,DIRECT
+  - DOMAIN,p8-juejin.byteimg.com,DIRECT
+  - DOMAIN,p9-juejin.byteimg.com,DIRECT
   - DOMAIN-SUFFIX,gitee.com,DIRECT
   - DOMAIN-SUFFIX,oschina.net,DIRECT
   - DOMAIN-SUFFIX,ruby-china.org,DIRECT
