@@ -542,6 +542,8 @@
   - DOMAIN-SUFFIX,yingjiesheng.com,DIRECT
   - DOMAIN-SUFFIX,yingjiesheng.net,DIRECT
   - DOMAIN-SUFFIX,zhiding.com.cn,DIRECT
+  - DOMAIN-SUFFIX,afdian.net,DIRECT
+  - DOMAIN-SUFFIX,afdiancdn.com,DIRECT
   - DOMAIN-SUFFIX,agora.io,DIRECT
   - DOMAIN-SUFFIX,agoraio.cn,DIRECT
   - DOMAIN-SUFFIX,agoralab.co,DIRECT
@@ -602,6 +604,8 @@
   - DOMAIN-SUFFIX,renren-inc.com,DIRECT
   - DOMAIN-SUFFIX,vaptcha.com,DIRECT
   - DOMAIN-SUFFIX,vaptcha.net,DIRECT
+  - DOMAIN-SUFFIX,wamawama.com,DIRECT
+  - DOMAIN-SUFFIX,wiwide.com,DIRECT
   - DOMAIN-SUFFIX,sojump.com,DIRECT
   - DOMAIN-SUFFIX,wjx.cn,DIRECT
   - DOMAIN-SUFFIX,wjx.com,DIRECT
@@ -1252,6 +1256,7 @@
   - DOMAIN-SUFFIX,oppo.cn,DIRECT
   - DOMAIN-SUFFIX,oppo.com,DIRECT
   - DOMAIN-SUFFIX,oppo.mobi,DIRECT
+  - DOMAIN-SUFFIX,oppodigital.com,DIRECT
   - DOMAIN-SUFFIX,oppoer.me,DIRECT
   - DOMAIN-SUFFIX,oppomobile.com,DIRECT
   - DOMAIN-SUFFIX,oppopay.com,DIRECT
