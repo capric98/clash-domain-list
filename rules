@@ -659,6 +659,10 @@
   - DOMAIN-SUFFIX,coding.net,DIRECT
   - DOMAIN-SUFFIX,csdn.net,DIRECT
   - DOMAIN-SUFFIX,csdnimg.cn,DIRECT
+  - DOMAIN-SUFFIX,deepin.cn,DIRECT
+  - DOMAIN-SUFFIX,deepin.com,DIRECT
+  - DOMAIN-SUFFIX,deepin.io,DIRECT
+  - DOMAIN-SUFFIX,deepin.org,DIRECT
   - DOMAIN-SUFFIX,gitee.com,DIRECT
   - DOMAIN-SUFFIX,jinrishici.com,DIRECT
   - DOMAIN-SUFFIX,juejin.im,DIRECT
@@ -1184,6 +1188,8 @@
   - DOMAIN-SUFFIX,didistatic.com,DIRECT
   - DOMAIN-SUFFIX,xiaojukeji.com,DIRECT
   - DOMAIN-SUFFIX,dbank.com,DIRECT
+  - DOMAIN-SUFFIX,dbankcdn.com,DIRECT
+  - DOMAIN-SUFFIX,harmonyos.com,DIRECT
   - DOMAIN-SUFFIX,hicloud.com,DIRECT
   - DOMAIN-SUFFIX,hihonor.com,DIRECT
   - DOMAIN-SUFFIX,honor.cn,DIRECT
