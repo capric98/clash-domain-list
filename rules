@@ -2662,10 +2662,25 @@
   - DOMAIN-SUFFIX,chaoxing.cc,DIRECT
 
   # Ads -> REJECT
+  - DOMAIN-SUFFIX,ad-delivery.net,REJECT
+  - DOMAIN-SUFFIX,adinplay.com,REJECT
+  - DOMAIN-SUFFIX,adnxs.com,REJECT
   - DOMAIN-SUFFIX,advertserve.com,REJECT
+  - DOMAIN-SUFFIX,casalemedia.com,REJECT
+  - DOMAIN-SUFFIX,contextual.media.net,REJECT
+  - DOMAIN-SUFFIX,cpmstar.com,REJECT
+  - DOMAIN-SUFFIX,demdex.net,REJECT
   - DOMAIN-SUFFIX,httpool.com,REJECT
+  - DOMAIN-SUFFIX,lijit.com,REJECT
+  - DOMAIN-SUFFIX,1rx.io,REJECT
+  - DOMAIN-SUFFIX,mfadsrvr.com,REJECT
   - DOMAIN-SUFFIX,mgid.com,REJECT
+  - DOMAIN-SUFFIX,ns1p.net,REJECT
+  - DOMAIN-SUFFIX,openx.net,REJECT
+  - DOMAIN-SUFFIX,pubmatic.com,REJECT
+  - DOMAIN-SUFFIX,spotxchange.com,REJECT
   - DOMAIN-SUFFIX,unimhk.com,REJECT
+  - DOMAIN-SUFFIX,upapi.net,REJECT
   - DOMAIN-SUFFIX,taboola.com,REJECT
   - DOMAIN,apilog-web.acfun.cn,REJECT
   - DOMAIN-SUFFIX,adcolony.com,REJECT
@@ -2935,9 +2950,9 @@
   - DOMAIN-SUFFIX,socdm.com,REJECT
   - DOMAIN-SUFFIX,emogi.com,REJECT
   - DOMAIN-SUFFIX,data.flurry.com,REJECT
+  - DOMAIN-SUFFIX,2mdn.net,REJECT
   - DOMAIN-SUFFIX,admob.com,REJECT
   - DOMAIN-SUFFIX,adsense.com,REJECT
-  - DOMAIN-SUFFIX,adservice.google.com,REJECT
   - DOMAIN-SUFFIX,advertisercommunity.com,REJECT
   - DOMAIN-SUFFIX,advertiserscommunity.com,REJECT
   - DOMAIN-SUFFIX,adwords-community.com,REJECT
@@ -2957,6 +2972,7 @@
   - DOMAIN-SUFFIX,googletagservices.com,REJECT
   - DOMAIN-SUFFIX,googletraveladservices.com,REJECT
   - DOMAIN-SUFFIX,urchin.com,REJECT
+  - DOMAIN-SUFFIX,regexp:^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$,REJECT
   - DOMAIN-SUFFIX,assets.growingio.com,REJECT
   - DOMAIN-SUFFIX,mlog.hiido.com,REJECT
   - DOMAIN-SUFFIX,ylog.hiido.com,REJECT
