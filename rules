@@ -2955,6 +2955,8 @@
   - DOMAIN-SUFFIX,2mdn.net,REJECT
   - DOMAIN-SUFFIX,admob.com,REJECT
   - DOMAIN-SUFFIX,adsense.com,REJECT
+  - DOMAIN-SUFFIX,adsensecustomsearchads.com,REJECT
+  - DOMAIN-SUFFIX,adsenseformobileapps.com,REJECT
   - DOMAIN-SUFFIX,advertisercommunity.com,REJECT
   - DOMAIN-SUFFIX,advertiserscommunity.com,REJECT
   - DOMAIN-SUFFIX,adwords-community.com,REJECT
