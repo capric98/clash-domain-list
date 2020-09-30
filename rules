@@ -2664,9 +2664,11 @@
   - DOMAIN-SUFFIX,chaoxing.cc,DIRECT
 
   # Ads -> REJECT
+  - DOMAIN-SUFFIX,7box.vip,REJECT
   - DOMAIN-SUFFIX,ad-delivery.net,REJECT
   - DOMAIN-SUFFIX,adinplay.com,REJECT
   - DOMAIN-SUFFIX,adnxs.com,REJECT
+  - DOMAIN-SUFFIX,ads.trafficjunky.net,REJECT
   - DOMAIN-SUFFIX,advertserve.com,REJECT
   - DOMAIN-SUFFIX,casalemedia.com,REJECT
   - DOMAIN-SUFFIX,contextual.media.net,REJECT
@@ -3201,7 +3203,6 @@
   - DOMAIN-SUFFIX,misc.in.duokanbox.com,REJECT
   - DOMAIN-SUFFIX,ad.hpplay.cn,REJECT
   - DOMAIN-SUFFIX,adeng.hpplay.cn,REJECT
-  - DOMAIN-SUFFIX,atianqi.com,REJECT
   - DOMAIN-SUFFIX,kuyun.com,REJECT
   - DOMAIN-SUFFIX,umeng.com,REJECT
   - DOMAIN-SUFFIX,ads.yahoo.com,REJECT
