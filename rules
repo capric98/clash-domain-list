@@ -1157,8 +1157,10 @@
   - DOMAIN-SUFFIX,bytedance.net,DIRECT
   - DOMAIN-SUFFIX,bytedns.net,DIRECT
   - DOMAIN-SUFFIX,byteimg.com,DIRECT
+  - DOMAIN-SUFFIX,byteoversea.com,DIRECT
   - DOMAIN-SUFFIX,douyin.com,DIRECT
   - DOMAIN-SUFFIX,huaxiong.com,DIRECT
+  - DOMAIN-SUFFIX,ibytedtos.com,DIRECT
   - DOMAIN-SUFFIX,jokecommunity.com,DIRECT
   - DOMAIN-SUFFIX,neihanshequ.com,DIRECT
   - DOMAIN-SUFFIX,pstatp.com,DIRECT
@@ -1166,6 +1168,7 @@
   - DOMAIN-SUFFIX,toutiao.com,DIRECT
   - DOMAIN-SUFFIX,toutiaocdn.com,DIRECT
   - DOMAIN-SUFFIX,toutiaocloud.com,DIRECT
+  - DOMAIN-SUFFIX,toutiaocloud.net,DIRECT
   - DOMAIN-SUFFIX,toutiaohao.com,DIRECT
   - DOMAIN-SUFFIX,toutiaohao.net,DIRECT
   - DOMAIN-SUFFIX,toutiaoimg.cn,DIRECT
@@ -1180,6 +1183,7 @@
   - DOMAIN-SUFFIX,zjcdn.com,DIRECT
   - DOMAIN-SUFFIX,baike.com,DIRECT
   - DOMAIN-SUFFIX,ixigua.com,DIRECT
+  - DOMAIN-SUFFIX,ixiguavideo.com,DIRECT
   - DOMAIN-SUFFIX,ixgvideo.com,DIRECT
   - DOMAIN-SUFFIX,365yg.com,DIRECT
   - DOMAIN-SUFFIX,didi-food.com,DIRECT
