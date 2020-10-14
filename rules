@@ -33,6 +33,7 @@
   - DOMAIN-SUFFIX,maoyun.com,DIRECT
   - DOMAIN-SUFFIX,maoyuncloud.cn,DIRECT
   - DOMAIN-SUFFIX,maoyuncloud.com,DIRECT
+  - DOMAIN-SUFFIX,pkoplink.com,DIRECT
   - DOMAIN-SUFFIX,staticfile.org,DIRECT
   - DOMAIN-SUFFIX,qbox.me,DIRECT
   - DOMAIN-SUFFIX,qiniu.com,DIRECT
