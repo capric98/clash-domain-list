@@ -3157,6 +3157,9 @@
   - DOMAIN-SUFFIX,v2.reachmax.cn,REJECT
   - DOMAIN,e8aeb8bbdbbd7.cdn.sohucs.com,REJECT
   - DOMAIN,643108e7617ef.cdn.sohucs.com,REJECT
+  - DOMAIN,adeventtracker.spotify.com,REJECT
+  - DOMAIN,adstudio-assets.scdn.co,REJECT
+  - DOMAIN,bloodhound.spotify.com,REJECT
   - DOMAIN-SUFFIX,supersonic.com,REJECT
   - DOMAIN-SUFFIX,supersonicads.com,REJECT
   - DOMAIN-SUFFIX,ssacdn.com,REJECT
