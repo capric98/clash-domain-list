@@ -3275,8 +3275,16 @@
   - DOMAIN-SUFFIX,adbutter.net,REJECT
   - DOMAIN-SUFFIX,ads.trafficjunky.net,REJECT
   - DOMAIN-SUFFIX,adtechus.com,REJECT
+  - DOMAIN-SUFFIX,adxprtz.com,REJECT
+  - DOMAIN-SUFFIX,cdn.advertserve.com,REJECT
+  - DOMAIN-SUFFIX,cdn.banclip.com,REJECT
   - DOMAIN-SUFFIX,cfts1tifqr.com,REJECT
   - DOMAIN-SUFFIX,contentabc.com,REJECT
+  - DOMAIN-SUFFIX,cretgate.com,REJECT
+  - DOMAIN-SUFFIX,ero-advertising.com,REJECT
+  - DOMAIN-SUFFIX,eroadvertising.com,REJECT
+  - DOMAIN-SUFFIX,exoclick.com,REJECT
+  - DOMAIN-SUFFIX,exosrv.com,REJECT
   - DOMAIN-SUFFIX,img-bss.csdn.net,REJECT
   - DOMAIN-SUFFIX,imglnkc.com,REJECT
   - DOMAIN-SUFFIX,imglnkd.com,REJECT
@@ -3288,6 +3296,7 @@
   - DOMAIN-SUFFIX,shhs-ydd8x2.yjrmss.cn,REJECT
   - DOMAIN-SUFFIX,static.javhd.com,REJECT
   - DOMAIN-SUFFIX,trafficfactory.biz,REJECT
+  - DOMAIN-SUFFIX,tsyndicate.com,REJECT
   - DOMAIN-SUFFIX,adx.36kr.com,REJECT
   - DOMAIN-SUFFIX,click.ali213.net,REJECT
   - DOMAIN-SUFFIX,pbmp.ali213.net,REJECT
@@ -3298,9 +3307,3 @@
   - DOMAIN-SUFFIX,dn-growing.qbox.me,REJECT
   - DOMAIN-SUFFIX,ad.unimhk.com,REJECT
   - DOMAIN-SUFFIX,das-rpt-log.ucloud.cn,REJECT
-  - DOMAIN-SUFFIX,adxprtz.com,REJECT
-  - DOMAIN-SUFFIX,exoclick.com,REJECT
-  - DOMAIN-SUFFIX,exosrv.com,REJECT
-  - DOMAIN-SUFFIX,cdn.advertserve.com,REJECT
-  - DOMAIN-SUFFIX,cdn.banclip.com,REJECT
-  - DOMAIN-SUFFIX,cdn.tsyndicate.com,REJECT
