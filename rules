@@ -1,5 +1,4 @@
   # CN sites -> DIRECT
-  - DOMAIN-SUFFIX,cn,DIRECT
   - DOMAIN-SUFFIX,42r.cn,DIRECT
   - DOMAIN-SUFFIX,5566ua.com,DIRECT
   - DOMAIN-SUFFIX,aurorapush.cn,DIRECT
@@ -2667,6 +2666,7 @@
   - DOMAIN-SUFFIX,zoomyou.cn,DIRECT
   - DOMAIN-SUFFIX,chaoxing.com,DIRECT
   - DOMAIN-SUFFIX,chaoxing.cc,DIRECT
+  - GEOIP,CN,DIRECT
 
   # Ads -> REJECT
   - DOMAIN-SUFFIX,7box.vip,REJECT
