@@ -6,10 +6,10 @@ if __name__=="__main__":
     os.chdir("data")
 
     print("  # CN sites -> DIRECT")
-    print("  - DOMAIN-SUFFIX,cn,DIRECT")
     cns = parse.parse_file("geolocation-cn")
     for d in cns:
         print("  - ", d.type, ",", d.domain, ",", "DIRECT", sep="")
+    print("  - GEOIP,CN,DIRECT")
 
     print("")
     print("  # Ads -> REJECT")
