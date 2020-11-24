@@ -680,6 +680,9 @@
   - DOMAIN,p9-juejin.byteimg.com,DIRECT
   - DOMAIN-SUFFIX,gitee.com,DIRECT
   - DOMAIN-SUFFIX,oschina.net,DIRECT
+  - DOMAIN-SUFFIX,pgyer.com,DIRECT
+  - DOMAIN-SUFFIX,tracup.com,DIRECT
+  - DOMAIN-SUFFIX,frontjs.com,DIRECT
   - DOMAIN-SUFFIX,ruby-china.org,DIRECT
   - DOMAIN-SUFFIX,rubyconfchina.org,DIRECT
   - DOMAIN-SUFFIX,mysxl.cn,DIRECT
@@ -1939,6 +1942,7 @@
   - DOMAIN-SUFFIX,eoeandroid.com,DIRECT
   - DOMAIN-SUFFIX,excelhome.net,DIRECT
   - DOMAIN-SUFFIX,expreview.com,DIRECT
+  - DOMAIN-SUFFIX,extfans.com,DIRECT
   - DOMAIN-SUFFIX,f.cx,DIRECT
   - DOMAIN-SUFFIX,faloo.com,DIRECT
   - DOMAIN-SUFFIX,famulei.com,DIRECT
@@ -2065,6 +2069,7 @@
   - DOMAIN-SUFFIX,imgo.tv,DIRECT
   - DOMAIN-SUFFIX,imooc.com,DIRECT
   - DOMAIN-SUFFIX,indienova.com,DIRECT
+  - DOMAIN-SUFFIX,infinitynewtab.com,DIRECT
   - DOMAIN-SUFFIX,infoq.com,DIRECT
   - DOMAIN-SUFFIX,infoqstatic.com,DIRECT
   - DOMAIN-SUFFIX,ip-cdn.com,DIRECT
