@@ -39,6 +39,7 @@
   - DOMAIN-SUFFIX,qiniucdn.com,DIRECT
   - DOMAIN-SUFFIX,qiniudn.com,DIRECT
   - DOMAIN-SUFFIX,qiniudns.com,DIRECT
+  - DOMAIN-SUFFIX,qiniup.com,DIRECT
   - DOMAIN-SUFFIX,qnssl.com,DIRECT
   - DOMAIN-SUFFIX,ucloud.cn,DIRECT
   - DOMAIN-SUFFIX,ufileos.com,DIRECT
@@ -567,6 +568,7 @@
   - DOMAIN-SUFFIX,coolapkmarket.net,DIRECT
   - DOMAIN-SUFFIX,c-t.work,DIRECT
   - DOMAIN-SUFFIX,cowtransfer.com,DIRECT
+  - DOMAIN-SUFFIX,dida365.com,DIRECT
   - DOMAIN-SUFFIX,geetest.com,DIRECT
   - DOMAIN,geetest.datasink.sensorsdata.cn,DIRECT
   - DOMAIN-SUFFIX,hellofont.cn,DIRECT
@@ -2229,6 +2231,7 @@
   - DOMAIN-SUFFIX,miaobolive.com,DIRECT
   - DOMAIN-SUFFIX,miaozhen.com,DIRECT
   - DOMAIN-SUFFIX,miercn.com,DIRECT
+  - DOMAIN-SUFFIX,mijisou.com,DIRECT
   - DOMAIN-SUFFIX,mikecrm.com,DIRECT
   - DOMAIN-SUFFIX,minhangshi.com,DIRECT
   - DOMAIN-SUFFIX,miusi.co,DIRECT
