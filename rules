@@ -48,10 +48,20 @@
   - DOMAIN-SUFFIX,upaiyun.com,DIRECT
   - DOMAIN-SUFFIX,upcdn.net,DIRECT
   - DOMAIN-SUFFIX,upyun.com,DIRECT
+  - DOMAIN-SUFFIX,51cdn.com,DIRECT
   - DOMAIN-SUFFIX,8686c.com,DIRECT
+  - DOMAIN-SUFFIX,cdn30.org,DIRECT
   - DOMAIN-SUFFIX,chinanetcenter.com,DIRECT
-  - DOMAIN-SUFFIX,wangsu.com,DIRECT
+  - DOMAIN-SUFFIX,lxdns.com,DIRECT
+  - DOMAIN-SUFFIX,lxdns.info,DIRECT
+  - DOMAIN-SUFFIX,lxdns.org,DIRECT
   - DOMAIN-SUFFIX,ourdvsss.com,DIRECT
+  - DOMAIN-SUFFIX,speedws.info,DIRECT
+  - DOMAIN-SUFFIX,speedws.org,DIRECT
+  - DOMAIN-SUFFIX,wangsu.com,DIRECT
+  - DOMAIN-SUFFIX,wscdns.com,DIRECT
+  - DOMAIN-SUFFIX,wscdns.info,DIRECT
+  - DOMAIN-SUFFIX,wscdns.org,DIRECT
   - DOMAIN-SUFFIX,yfcache.com,DIRECT
   - DOMAIN-SUFFIX,yfcalc.com,DIRECT
   - DOMAIN-SUFFIX,yfcloud.com,DIRECT
@@ -59,6 +69,8 @@
   - DOMAIN-SUFFIX,yfp2p.net,DIRECT
   - DOMAIN-SUFFIX,yfscdn.net,DIRECT
   - DOMAIN-SUFFIX,yunfancdn.com,DIRECT
+  - DOMAIN-SUFFIX,qingcache.com,DIRECT
+  - DOMAIN-SUFFIX,qingcloud.com,DIRECT
   - DOMAIN-SUFFIX,boc.cn,DIRECT
   - DOMAIN-SUFFIX,bankofchina.com,DIRECT
   - DOMAIN-SUFFIX,bocaviation.com,DIRECT
@@ -401,6 +413,8 @@
   - DOMAIN-SUFFIX,dwstatic.com,DIRECT
   - DOMAIN-SUFFIX,yy.com,DIRECT
   - DOMAIN-SUFFIX,yystatic.com,DIRECT
+  - DOMAIN-SUFFIX,videojj.com,DIRECT
+  - DOMAIN-SUFFIX,zhanqi.tv,DIRECT
   - DOMAIN-SUFFIX,heytea.com,DIRECT
   - DOMAIN-SUFFIX,chiphell.com,DIRECT
   - DOMAIN-SUFFIX,douban.com,DIRECT
@@ -2325,7 +2339,6 @@
   - DOMAIN-SUFFIX,qie.tv,DIRECT
   - DOMAIN-SUFFIX,qifeiye.com,DIRECT
   - DOMAIN-SUFFIX,qijiayoudao.net,DIRECT
-  - DOMAIN-SUFFIX,qingcloud.com,DIRECT
   - DOMAIN-SUFFIX,qingdaochina.org,DIRECT
   - DOMAIN-SUFFIX,qingdaonews.com,DIRECT
   - DOMAIN-SUFFIX,qingsongchou.com,DIRECT
@@ -2468,7 +2481,6 @@
   - DOMAIN-SUFFIX,veryhuo.com,DIRECT
   - DOMAIN-SUFFIX,veryzhun.com,DIRECT
   - DOMAIN-SUFFIX,vic18.com,DIRECT
-  - DOMAIN-SUFFIX,videojj.com,DIRECT
   - DOMAIN-SUFFIX,vijos.org,DIRECT
   - DOMAIN-SUFFIX,vip.com,DIRECT
   - DOMAIN-SUFFIX,vobao.com,DIRECT
@@ -2631,7 +2643,6 @@
   - DOMAIN-SUFFIX,zgzcw.com,DIRECT
   - DOMAIN-SUFFIX,zhanbuba.com,DIRECT
   - DOMAIN-SUFFIX,zhangyoubao.com,DIRECT
-  - DOMAIN-SUFFIX,zhanqi.tv,DIRECT
   - DOMAIN-SUFFIX,zhanzhang.net,DIRECT
   - DOMAIN-SUFFIX,zhaodanji.com,DIRECT
   - DOMAIN-SUFFIX,zhaokao.net,DIRECT
