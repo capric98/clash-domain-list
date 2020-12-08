@@ -40,6 +40,7 @@
   - DOMAIN-SUFFIX,qiniudn.com,DIRECT
   - DOMAIN-SUFFIX,qiniudns.com,DIRECT
   - DOMAIN-SUFFIX,qiniup.com,DIRECT
+  - DOMAIN-SUFFIX,qnsdk.com,DIRECT
   - DOMAIN-SUFFIX,qnssl.com,DIRECT
   - DOMAIN-SUFFIX,ucloud.cn,DIRECT
   - DOMAIN-SUFFIX,ufileos.com,DIRECT
@@ -82,21 +83,244 @@
   - DOMAIN-SUFFIX,bocigroup.com,DIRECT
   - DOMAIN-SUFFIX,bocim.com,DIRECT
   - DOMAIN-SUFFIX,bocservices.com.cn,DIRECT
+  - DOMAIN-SUFFIX,ccb-life.com.cn,DIRECT
+  - DOMAIN-SUFFIX,ccb.com,DIRECT
+  - DOMAIN-SUFFIX,ccbfund.cn,DIRECT
+  - DOMAIN-SUFFIX,ccbfutures.com,DIRECT
+  - DOMAIN-SUFFIX,ccbintl.com.hk,DIRECT
+  - DOMAIN-SUFFIX,ccbleasing.com,DIRECT
+  - DOMAIN-SUFFIX,ccbseoul.com,DIRECT
+  - DOMAIN-SUFFIX,ccbtrust.com.cn,DIRECT
   - DOMAIN-SUFFIX,cignacmb.com,DIRECT
   - DOMAIN-SUFFIX,cmb-leasing.com,DIRECT
   - DOMAIN-SUFFIX,cmbchina.com,DIRECT
   - DOMAIN-SUFFIX,cmbi.com.hk,DIRECT
   - DOMAIN-SUFFIX,cmbwinglungbank.com,DIRECT
+  - DOMAIN-SUFFIX,cmfchina.com,DIRECT
   - DOMAIN-SUFFIX,icbc,DIRECT
   - DOMAIN-SUFFIX,icbc-ltd.com,DIRECT
+  - DOMAIN-SUFFIX,icbc-uk.com,DIRECT
   - DOMAIN-SUFFIX,icbc-us.com,DIRECT
+  - DOMAIN-SUFFIX,icbc.co.id,DIRECT
   - DOMAIN-SUFFIX,icbc.com.cn,DIRECT
+  - DOMAIN-SUFFIX,icbc.com.mo,DIRECT
+  - DOMAIN-SUFFIX,icbc.com.pe,DIRECT
+  - DOMAIN-SUFFIX,icbc.com.sg,DIRECT
+  - DOMAIN-SUFFIX,icbcasia.com,DIRECT
+  - DOMAIN-SUFFIX,icbcbr.com.br,DIRECT
+  - DOMAIN-SUFFIX,icbclondon.com,DIRECT
+  - DOMAIN-SUFFIX,icbcmy.com,DIRECT
+  - DOMAIN-SUFFIX,icbcstandard.com,DIRECT
+  - DOMAIN-SUFFIX,icbcstandardbank.com,DIRECT
+  - DOMAIN-SUFFIX,icbcstandardresources.com,DIRECT
+  - DOMAIN-SUFFIX,icbcstandardsecurities.com,DIRECT
+  - DOMAIN-SUFFIX,icbcswiss.com,DIRECT
+  - DOMAIN-SUFFIX,icbccs.com.cn,DIRECT
   - DOMAIN-SUFFIX,95516.com,DIRECT
   - DOMAIN-SUFFIX,unionpay.com,DIRECT
   - DOMAIN-SUFFIX,unionpayintl.com,DIRECT
   - DOMAIN-SUFFIX,unionpaysecure.com,DIRECT
   - DOMAIN-SUFFIX,abchina.com,DIRECT
+  - DOMAIN-SUFFIX,bankcomm.com,DIRECT
+  - DOMAIN-SUFFIX,bankofbeijing.com.cn,DIRECT
+  - DOMAIN-SUFFIX,bosc.cn,DIRECT
+  - DOMAIN-SUFFIX,bsb.com.cn,DIRECT
+  - DOMAIN-SUFFIX,ccb.com,DIRECT
+  - DOMAIN-SUFFIX,cgbchina.com.cn,DIRECT
+  - DOMAIN-SUFFIX,cib.com.cn,DIRECT
+  - DOMAIN-SUFFIX,citibank.com.cn,DIRECT
+  - DOMAIN-SUFFIX,cmbc.com.cn,DIRECT
+  - DOMAIN-SUFFIX,hsbc.com.cn,DIRECT
+  - DOMAIN-SUFFIX,hxb.com.cn,DIRECT
+  - DOMAIN-SUFFIX,njcb.com.cn,DIRECT
+  - DOMAIN-SUFFIX,psbc.com,DIRECT
+  - DOMAIN-SUFFIX,spdb.com.cn,DIRECT
   - DOMAIN-SUFFIX,whccb.com,DIRECT
+  - DOMAIN-SUFFIX,sse.com.cn,DIRECT
+  - DOMAIN-SUFFIX,sseinfo.com,DIRECT
+  - DOMAIN-SUFFIX,szse.cn,DIRECT
+  - DOMAIN-SUFFIX,cninfo.com.cn,DIRECT
+  - DOMAIN-SUFFIX,ajzq.com,DIRECT
+  - DOMAIN-SUFFIX,avicsec.com,DIRECT
+  - DOMAIN-SUFFIX,ccnew.com,DIRECT
+  - DOMAIN-SUFFIX,cczq.com,DIRECT
+  - DOMAIN-SUFFIX,cczq.net,DIRECT
+  - DOMAIN-SUFFIX,cfsc.com.cn,DIRECT
+  - DOMAIN-SUFFIX,cfzq.com,DIRECT
+  - DOMAIN-SUFFIX,cgws.com,DIRECT
+  - DOMAIN-SUFFIX,chinalions.com,DIRECT
+  - DOMAIN-SUFFIX,chinastock.com.cn,DIRECT
+  - DOMAIN-SUFFIX,cicc.com,DIRECT
+  - DOMAIN-SUFFIX,ciccwm.com,DIRECT
+  - DOMAIN-SUFFIX,cindasc.com,DIRECT
+  - DOMAIN-SUFFIX,cjsc.com,DIRECT
+  - DOMAIN-SUFFIX,cnhbstock.com,DIRECT
+  - DOMAIN-SUFFIX,cnht.com.cn,DIRECT
+  - DOMAIN-SUFFIX,csco.com.cn,DIRECT
+  - DOMAIN-SUFFIX,csfounder.com,DIRECT
+  - DOMAIN-SUFFIX,ctsec.com,DIRECT
+  - DOMAIN-SUFFIX,daton.com.cn,DIRECT
+  - DOMAIN-SUFFIX,dfham.com,DIRECT
+  - DOMAIN-SUFFIX,dfzq.com.cn,DIRECT
+  - DOMAIN-SUFFIX,dgzq.com.cn,DIRECT
+  - DOMAIN-SUFFIX,dtsbc.com.cn,DIRECT
+  - DOMAIN-SUFFIX,dwjq.com.cn,DIRECT
+  - DOMAIN-SUFFIX,dxzq.net,DIRECT
+  - DOMAIN-SUFFIX,easec.com.cn,DIRECT
+  - DOMAIN-SUFFIX,essence.com.cn,DIRECT
+  - DOMAIN-SUFFIX,ewww.com.cn,DIRECT
+  - DOMAIN-SUFFIX,fcsc.cn,DIRECT
+  - DOMAIN-SUFFIX,fzfinancing.com,DIRECT
+  - DOMAIN-SUFFIX,gf.com.cn,DIRECT
+  - DOMAIN-SUFFIX,ghsl.cn,DIRECT
+  - DOMAIN-SUFFIX,ghzq.com.cn,DIRECT
+  - DOMAIN-SUFFIX,gjzq.com.cn,DIRECT
+  - DOMAIN-SUFFIX,gkzq.com.cn,DIRECT
+  - DOMAIN-SUFFIX,glsc.com.cn,DIRECT
+  - DOMAIN-SUFFIX,grzq.com,DIRECT
+  - DOMAIN-SUFFIX,gsgh.cn,DIRECT
+  - DOMAIN-SUFFIX,gszq.com,DIRECT
+  - DOMAIN-SUFFIX,gtja.com,DIRECT
+  - DOMAIN-SUFFIX,gtja.com,DIRECT
+  - DOMAIN-SUFFIX,guodu.com,DIRECT
+  - DOMAIN-SUFFIX,guosen.com.cn,DIRECT
+  - DOMAIN-SUFFIX,gyzq.com.cn,DIRECT
+  - DOMAIN-SUFFIX,hazq.com,DIRECT
+  - DOMAIN-SUFFIX,hczq.com,DIRECT
+  - DOMAIN-SUFFIX,hfzq.com.cn,DIRECT
+  - DOMAIN-SUFFIX,hlzqgs.com,DIRECT
+  - DOMAIN-SUFFIX,hongtastock.com,DIRECT
+  - DOMAIN-SUFFIX,hrsec.com.cn,DIRECT
+  - DOMAIN-SUFFIX,hsbcqh.com.cn,DIRECT
+  - DOMAIN-SUFFIX,htsc.com.cn,DIRECT
+  - DOMAIN-SUFFIX,htsec.com,DIRECT
+  - DOMAIN-SUFFIX,huajingsec.com,DIRECT
+  - DOMAIN-SUFFIX,huajinsc.cn,DIRECT
+  - DOMAIN-SUFFIX,huayingsc.com,DIRECT
+  - DOMAIN-SUFFIX,hx168.com.cn,DIRECT
+  - DOMAIN-SUFFIX,hxzq.cn,DIRECT
+  - DOMAIN-SUFFIX,i618.com.cn,DIRECT
+  - DOMAIN-SUFFIX,iztzq.com,DIRECT
+  - DOMAIN-SUFFIX,jhzq.com.cn,DIRECT
+  - DOMAIN-SUFFIX,jpmorganchina.com,DIRECT
+  - DOMAIN-SUFFIX,jyzq.cn,DIRECT
+  - DOMAIN-SUFFIX,jzsec.com,DIRECT
+  - DOMAIN-SUFFIX,kysec.cn,DIRECT
+  - DOMAIN-SUFFIX,lczq.com,DIRECT
+  - DOMAIN-SUFFIX,lhzq.com,DIRECT
+  - DOMAIN-SUFFIX,longone.com.cn,DIRECT
+  - DOMAIN-SUFFIX,morganstanleyhuaxin.com,DIRECT
+  - DOMAIN-SUFFIX,mszq.com,DIRECT
+  - DOMAIN-SUFFIX,nesc.cn,DIRECT
+  - DOMAIN-SUFFIX,njzq.com.cn,DIRECT
+  - DOMAIN-SUFFIX,nomuraoi-sec.com,DIRECT
+  - DOMAIN-SUFFIX,shgsec.com,DIRECT
+  - DOMAIN-SUFFIX,shhxzq.com,DIRECT
+  - DOMAIN-SUFFIX,shzq.com,DIRECT
+  - DOMAIN-SUFFIX,stocke.com.cn,DIRECT
+  - DOMAIN-SUFFIX,swhysc.com,DIRECT
+  - DOMAIN-SUFFIX,swsc.com.cn,DIRECT
+  - DOMAIN-SUFFIX,tebon.com.cn,DIRECT
+  - DOMAIN-SUFFIX,tfzq.com,DIRECT
+  - DOMAIN-SUFFIX,tpyzq.com,DIRECT
+  - DOMAIN-SUFFIX,vanho.cn,DIRECT
+  - DOMAIN-SUFFIX,west95582.com,DIRECT
+  - DOMAIN-SUFFIX,wkzq.com.cn,DIRECT
+  - DOMAIN-SUFFIX,wlzq.cn,DIRECT
+  - DOMAIN-SUFFIX,wxzq.com,DIRECT
+  - DOMAIN-SUFFIX,xcsc.com,DIRECT
+  - DOMAIN-SUFFIX,xsdzq.cn,DIRECT
+  - DOMAIN-SUFFIX,xyzq.com.cn,DIRECT
+  - DOMAIN-SUFFIX,ydsc.com.cn,DIRECT
+  - DOMAIN-SUFFIX,ykzq.com,DIRECT
+  - DOMAIN-SUFFIX,ytzq.com,DIRECT
+  - DOMAIN-SUFFIX,zdzq.com.cn,DIRECT
+  - DOMAIN-SUFFIX,zszq.com,DIRECT
+  - DOMAIN-SUFFIX,ztfsec.com,DIRECT
+  - DOMAIN-SUFFIX,zts.com.cn,DIRECT
+  - DOMAIN-SUFFIX,99fund.com,DIRECT
+  - DOMAIN-SUFFIX,abc-ca.com,DIRECT
+  - DOMAIN-SUFFIX,avicfund.cn,DIRECT
+  - DOMAIN-SUFFIX,bdfund.cn,DIRECT
+  - DOMAIN-SUFFIX,bobbns.com,DIRECT
+  - DOMAIN-SUFFIX,boscam.com.cn,DIRECT
+  - DOMAIN-SUFFIX,bosera.com,DIRECT
+  - DOMAIN-SUFFIX,ccfund.com.cn,DIRECT
+  - DOMAIN-SUFFIX,cfund108.com,DIRECT
+  - DOMAIN-SUFFIX,changanfunds.com,DIRECT
+  - DOMAIN-SUFFIX,chinanature.com.cn,DIRECT
+  - DOMAIN-SUFFIX,cib-fund.com.cn,DIRECT
+  - DOMAIN-SUFFIX,cryuantafund.com,DIRECT
+  - DOMAIN-SUFFIX,ctfund.com,DIRECT
+  - DOMAIN-SUFFIX,dbfund.com.cn,DIRECT
+  - DOMAIN-SUFFIX,efunds.com.cn,DIRECT
+  - DOMAIN-SUFFIX,fadfunds.com,DIRECT
+  - DOMAIN-SUFFIX,foresightfund.com,DIRECT
+  - DOMAIN-SUFFIX,founderff.com,DIRECT
+  - DOMAIN-SUFFIX,fsfund.com,DIRECT
+  - DOMAIN-SUFFIX,ftfund.com,DIRECT
+  - DOMAIN-SUFFIX,fullgoal.com.cn,DIRECT
+  - DOMAIN-SUFFIX,furamc.com.cn,DIRECT
+  - DOMAIN-SUFFIX,galaxyasset.com,DIRECT
+  - DOMAIN-SUFFIX,gefund.com.cn,DIRECT
+  - DOMAIN-SUFFIX,gffunds.com.cn,DIRECT
+  - DOMAIN-SUFFIX,gfund.com,DIRECT
+  - DOMAIN-SUFFIX,gowinamc.com,DIRECT
+  - DOMAIN-SUFFIX,hffunds.cn,DIRECT
+  - DOMAIN-SUFFIX,hftfund.com,DIRECT
+  - DOMAIN-SUFFIX,hongdefund.com,DIRECT
+  - DOMAIN-SUFFIX,hsfund.com,DIRECT
+  - DOMAIN-SUFFIX,huaan.com.cn,DIRECT
+  - DOMAIN-SUFFIX,igwfmc.com,DIRECT
+  - DOMAIN-SUFFIX,jsfund.cn,DIRECT
+  - DOMAIN-SUFFIX,jtamc.com,DIRECT
+  - DOMAIN-SUFFIX,mfcteda.com,DIRECT
+  - DOMAIN-SUFFIX,msjyfund.com.cn,DIRECT
+  - DOMAIN-SUFFIX,nffund.com,DIRECT
+  - DOMAIN-SUFFIX,ocfund.cn,DIRECT
+  - DOMAIN-SUFFIX,orient-fund.com,DIRECT
+  - DOMAIN-SUFFIX,phfund.com.cn,DIRECT
+  - DOMAIN-SUFFIX,postfund.com.cn,DIRECT
+  - DOMAIN-SUFFIX,py-axa.com,DIRECT
+  - DOMAIN-SUFFIX,swsmu.com,DIRECT
+  - DOMAIN-SUFFIX,taipingfund.com.cn,DIRECT
+  - DOMAIN-SUFFIX,thfund.com.cn,DIRECT
+  - DOMAIN-SUFFIX,tongtaiamc.com,DIRECT
+  - DOMAIN-SUFFIX,ubssdic.com,DIRECT
+  - DOMAIN-SUFFIX,xf-fund.com,DIRECT
+  - DOMAIN-SUFFIX,xqfunds.com,DIRECT
+  - DOMAIN-SUFFIX,ydamc.com,DIRECT
+  - DOMAIN-SUFFIX,yhfund.com.cn,DIRECT
+  - DOMAIN-SUFFIX,zhfund.com,DIRECT
+  - DOMAIN-SUFFIX,zofund.com,DIRECT
+  - DOMAIN-SUFFIX,5ifund.com,DIRECT
+  - DOMAIN-SUFFIX,fund123.cn,DIRECT
+  - DOMAIN-SUFFIX,howbuy.com,DIRECT
+  - DOMAIN-SUFFIX,lufunds.com,DIRECT
+  - DOMAIN-SUFFIX,zlfund.cn,DIRECT
+  - DOMAIN-SUFFIX,citic,DIRECT
+  - DOMAIN-SUFFIX,chinaamc.com,DIRECT
+  - DOMAIN-SUFFIX,citic-prudential.com.cn,DIRECT
+  - DOMAIN-SUFFIX,citicbank.com,DIRECT
+  - DOMAIN-SUFFIX,citiccapital.com,DIRECT
+  - DOMAIN-SUFFIX,citiciam.com,DIRECT
+  - DOMAIN-SUFFIX,citicifh.com,DIRECT
+  - DOMAIN-SUFFIX,citicprufunds.com.cn,DIRECT
+  - DOMAIN-SUFFIX,citics.com.hk,DIRECT
+  - DOMAIN-SUFFIX,citicsf.com,DIRECT
+  - DOMAIN-SUFFIX,clsa.com,DIRECT
+  - DOMAIN-SUFFIX,cncbinternational.com,DIRECT
+  - DOMAIN-SUFFIX,csc108.com,DIRECT
+  - DOMAIN-SUFFIX,csci.hk,DIRECT
+  - DOMAIN-SUFFIX,ecitic.com,DIRECT
+  - DOMAIN-SUFFIX,1234567.com.cn,DIRECT
+  - DOMAIN-SUFFIX,18.cn,DIRECT
+  - DOMAIN-SUFFIX,18.com.cn,DIRECT
+  - DOMAIN-SUFFIX,dfcfw.com,DIRECT
+  - DOMAIN-SUFFIX,eastmoney.com,DIRECT
+  - DOMAIN-SUFFIX,eastmoneyfutures.com,DIRECT
+  - DOMAIN-SUFFIX,emsec.hk,DIRECT
+  - DOMAIN-SUFFIX,guba.com.cn,DIRECT
   - DOMAIN-SUFFIX,cebbank.com,DIRECT
   - DOMAIN-SUFFIX,ceblease.com,DIRECT
   - DOMAIN-SUFFIX,eb-ind.com,DIRECT
@@ -112,12 +336,14 @@
   - DOMAIN-SUFFIX,everbright.com,DIRECT
   - DOMAIN-SUFFIX,secec.com,DIRECT
   - DOMAIN-SUFFIX,sunlife-everbright.com,DIRECT
+  - DOMAIN-SUFFIX,pingan.com,DIRECT
+  - DOMAIN-SUFFIX,pingan.com.cn,DIRECT
+  - DOMAIN-SUFFIX,pingan.com.hk,DIRECT
+  - DOMAIN-SUFFIX,yqb.com,DIRECT
   - DOMAIN-SUFFIX,taikang.com,DIRECT
   - DOMAIN-SUFFIX,taikanglife.com,DIRECT
   - DOMAIN-SUFFIX,taikangzhijia.com,DIRECT
   - DOMAIN-SUFFIX,tkhealthcare.com,DIRECT
-  - DOMAIN-SUFFIX,danjuanfunds.com,DIRECT
-  - DOMAIN-SUFFIX,xueqiu.com,DIRECT
   - DOMAIN-SUFFIX,58.com,DIRECT
   - DOMAIN-SUFFIX,58.com.cn,DIRECT
   - DOMAIN-SUFFIX,5858.com,DIRECT
@@ -413,7 +639,6 @@
   - DOMAIN-SUFFIX,dwstatic.com,DIRECT
   - DOMAIN-SUFFIX,yy.com,DIRECT
   - DOMAIN-SUFFIX,yystatic.com,DIRECT
-  - DOMAIN-SUFFIX,videojj.com,DIRECT
   - DOMAIN-SUFFIX,zhanqi.tv,DIRECT
   - DOMAIN-SUFFIX,heytea.com,DIRECT
   - DOMAIN-SUFFIX,chiphell.com,DIRECT
@@ -443,17 +668,6 @@
   - DOMAIN-SUFFIX,sfgy.org,DIRECT
   - DOMAIN-SUFFIX,36kr.com,DIRECT
   - DOMAIN-SUFFIX,36krcdn.com,DIRECT
-  - DOMAIN-SUFFIX,dgtle.com,DIRECT
-  - DOMAIN-SUFFIX,hoopchina.com.cn,DIRECT
-  - DOMAIN-SUFFIX,hupu.com,DIRECT
-  - DOMAIN-SUFFIX,hupucdn.com,DIRECT
-  - DOMAIN-SUFFIX,shihuo.cn,DIRECT
-  - DOMAIN-SUFFIX,coolbuy.com,DIRECT
-  - DOMAIN-SUFFIX,ifanr.com,DIRECT
-  - DOMAIN-SUFFIX,ifanr.in,DIRECT
-  - DOMAIN-SUFFIX,ifanrusercontent.com,DIRECT
-  - DOMAIN-SUFFIX,ifanrx.com,DIRECT
-  - DOMAIN-SUFFIX,minapp.com,DIRECT
   - DOMAIN-SUFFIX,caixin.com,DIRECT
   - DOMAIN-SUFFIX,cctv.cn,DIRECT
   - DOMAIN-SUFFIX,cctv.com,DIRECT
@@ -496,7 +710,18 @@
   - DOMAIN-SUFFIX,chinanews.com.cn,DIRECT
   - DOMAIN-SUFFIX,cns.com.cn,DIRECT
   - DOMAIN-SUFFIX,ecns.cn,DIRECT
+  - DOMAIN-SUFFIX,dgtle.com,DIRECT
   - DOMAIN-SUFFIX,geekpark.net,DIRECT
+  - DOMAIN-SUFFIX,hoopchina.com.cn,DIRECT
+  - DOMAIN-SUFFIX,hupu.com,DIRECT
+  - DOMAIN-SUFFIX,hupucdn.com,DIRECT
+  - DOMAIN-SUFFIX,shihuo.cn,DIRECT
+  - DOMAIN-SUFFIX,coolbuy.com,DIRECT
+  - DOMAIN-SUFFIX,ifanr.com,DIRECT
+  - DOMAIN-SUFFIX,ifanr.in,DIRECT
+  - DOMAIN-SUFFIX,ifanrusercontent.com,DIRECT
+  - DOMAIN-SUFFIX,ifanrx.com,DIRECT
+  - DOMAIN-SUFFIX,minapp.com,DIRECT
   - DOMAIN-SUFFIX,jiemian.com,DIRECT
   - DOMAIN-SUFFIX,jiemian.com.cn,DIRECT
   - DOMAIN-SUFFIX,lancdn.com,DIRECT
@@ -534,6 +759,38 @@
   - DOMAIN-SUFFIX,ynet.cn,DIRECT
   - DOMAIN-SUFFIX,ynet.com,DIRECT
   - DOMAIN-SUFFIX,ynet.com.cn,DIRECT
+  - DOMAIN-SUFFIX,aiganggu.com,DIRECT
+  - DOMAIN-SUFFIX,danjuanfunds.com,DIRECT
+  - DOMAIN-SUFFIX,imedao.com,DIRECT
+  - DOMAIN-SUFFIX,snowballsecurities.com,DIRECT
+  - DOMAIN-SUFFIX,xueqiu.com,DIRECT
+  - DOMAIN-SUFFIX,stcn.com,DIRECT
+  - DOMAIN-SUFFIX,caijing.com.cn,DIRECT
+  - DOMAIN-SUFFIX,hexun.com,DIRECT
+  - DOMAIN-SUFFIX,cnfol.com,DIRECT
+  - DOMAIN-SUFFIX,cnfolimg.com,DIRECT
+  - DOMAIN-SUFFIX,zqrb.cn,DIRECT
+  - DOMAIN-SUFFIX,nbd.com.cn,DIRECT
+  - DOMAIN-SUFFIX,cnstock.com,DIRECT
+  - DOMAIN-SUFFIX,21jingji.com,DIRECT
+  - DOMAIN-SUFFIX,yicai.com,DIRECT
+  - DOMAIN-SUFFIX,cs.com.cn,DIRECT
+  - DOMAIN-SUFFIX,ssajax.cn,DIRECT
+  - DOMAIN-SUFFIX,ssimg.cn,DIRECT
+  - DOMAIN-SUFFIX,stockstar.com,DIRECT
+  - DOMAIN-SUFFIX,jrj.com.cn,DIRECT
+  - DOMAIN-SUFFIX,jrjimg.cn,DIRECT
+  - DOMAIN-SUFFIX,cls.cn,DIRECT
+  - DOMAIN-SUFFIX,cailianpress.com,DIRECT
+  - DOMAIN-SUFFIX,wallstreetcn.com,DIRECT
+  - DOMAIN-SUFFIX,jianyuweb.com,DIRECT
+  - DOMAIN-SUFFIX,wallstcn.com,DIRECT
+  - DOMAIN-SUFFIX,10jqka.com.cn,DIRECT
+  - DOMAIN-SUFFIX,thsi.cn,DIRECT
+  - DOMAIN-SUFFIX,ths123.com,DIRECT
+  - DOMAIN-SUFFIX,dzh.com.cn,DIRECT
+  - DOMAIN-SUFFIX,gw.com.cn,DIRECT
+  - DOMAIN-SUFFIX,yundzh.com,DIRECT
   - DOMAIN-SUFFIX,hainanairlines.com,DIRECT
   - DOMAIN-SUFFIX,hnacargo.com,DIRECT
   - DOMAIN-SUFFIX,hnair.com,DIRECT
@@ -682,9 +939,9 @@
   - DOMAIN-SUFFIX,deepin.org,DIRECT
   - DOMAIN-SUFFIX,gitee.com,DIRECT
   - DOMAIN-SUFFIX,jinrishici.com,DIRECT
+  - DOMAIN-SUFFIX,juejin.cn,DIRECT
   - DOMAIN-SUFFIX,juejin.im,DIRECT
-  - DOMAIN,b-gold-cdn.xitu.io,DIRECT
-  - DOMAIN,mirror-gold-cdn.xitu.io,DIRECT
+  - DOMAIN-SUFFIX,xitu.io,DIRECT
   - DOMAIN,p1-juejin.byteimg.com,DIRECT
   - DOMAIN,p2-juejin.byteimg.com,DIRECT
   - DOMAIN,p3-juejin.byteimg.com,DIRECT
@@ -1171,6 +1428,18 @@
   - DOMAIN-SUFFIX,tiebaimg.com,DIRECT
   - DOMAIN-SUFFIX,xianfae.com,DIRECT
   - DOMAIN-SUFFIX,xiaodutv.com,DIRECT
+  - DOMAIN-SUFFIX,juejin.cn,DIRECT
+  - DOMAIN-SUFFIX,juejin.im,DIRECT
+  - DOMAIN-SUFFIX,xitu.io,DIRECT
+  - DOMAIN,p1-juejin.byteimg.com,DIRECT
+  - DOMAIN,p2-juejin.byteimg.com,DIRECT
+  - DOMAIN,p3-juejin.byteimg.com,DIRECT
+  - DOMAIN,p4-juejin.byteimg.com,DIRECT
+  - DOMAIN,p5-juejin.byteimg.com,DIRECT
+  - DOMAIN,p6-juejin.byteimg.com,DIRECT
+  - DOMAIN,p7-juejin.byteimg.com,DIRECT
+  - DOMAIN,p8-juejin.byteimg.com,DIRECT
+  - DOMAIN,p9-juejin.byteimg.com,DIRECT
   - DOMAIN-SUFFIX,bytecdn.cn,DIRECT
   - DOMAIN-SUFFIX,bytedance.com,DIRECT
   - DOMAIN-SUFFIX,bytedance.net,DIRECT
@@ -1765,7 +2034,6 @@
   - DOMAIN-SUFFIX,baixing.net,DIRECT
   - DOMAIN-SUFFIX,bamenzhushou.com,DIRECT
   - DOMAIN-SUFFIX,bangongziyuan.com,DIRECT
-  - DOMAIN-SUFFIX,bankcomm.com,DIRECT
   - DOMAIN-SUFFIX,baofeng.com,DIRECT
   - DOMAIN-SUFFIX,baoxianshichang.com,DIRECT
   - DOMAIN-SUFFIX,bcy.net,DIRECT
@@ -1805,7 +2073,6 @@
   - DOMAIN-SUFFIX,cankaoxiaoxi.com,DIRECT
   - DOMAIN-SUFFIX,cardbaobao.com,DIRECT
   - DOMAIN-SUFFIX,carnoc.com,DIRECT
-  - DOMAIN-SUFFIX,ccb.com,DIRECT
   - DOMAIN-SUFFIX,cdn20.com,DIRECT
   - DOMAIN-SUFFIX,cecdc.com,DIRECT
   - DOMAIN-SUFFIX,cecport.com,DIRECT
@@ -1852,9 +2119,7 @@
   - DOMAIN-SUFFIX,cnbetacdn.com,DIRECT
   - DOMAIN-SUFFIX,cnblogs.com,DIRECT
   - DOMAIN-SUFFIX,cnepub.com,DIRECT
-  - DOMAIN-SUFFIX,cnfol.com,DIRECT
   - DOMAIN-SUFFIX,cnlaw.net,DIRECT
-  - DOMAIN-SUFFIX,cnstock.com,DIRECT
   - DOMAIN-SUFFIX,cnzz.com,DIRECT
   - DOMAIN-SUFFIX,cocodiy.com,DIRECT
   - DOMAIN-SUFFIX,code666.com,DIRECT
@@ -1940,7 +2205,6 @@
   - DOMAIN-SUFFIX,easesale.com,DIRECT
   - DOMAIN-SUFFIX,easiu.com,DIRECT
   - DOMAIN-SUFFIX,eastday.com,DIRECT
-  - DOMAIN-SUFFIX,eastmoney.com,DIRECT
   - DOMAIN-SUFFIX,eastsoo.com,DIRECT
   - DOMAIN-SUFFIX,eayyou.com,DIRECT
   - DOMAIN-SUFFIX,ebico.com,DIRECT
@@ -2040,7 +2304,6 @@
   - DOMAIN-SUFFIX,henha.com,DIRECT
   - DOMAIN-SUFFIX,henkuai.com,DIRECT
   - DOMAIN-SUFFIX,herostart.com,DIRECT
-  - DOMAIN-SUFFIX,hexun.com,DIRECT
   - DOMAIN-SUFFIX,hiido.com,DIRECT
   - DOMAIN-SUFFIX,hitv.com,DIRECT
   - DOMAIN-SUFFIX,hiyd.com,DIRECT
@@ -2187,7 +2450,6 @@
   - DOMAIN-SUFFIX,leturich.org,DIRECT
   - DOMAIN-SUFFIX,lianmishu.com,DIRECT
   - DOMAIN-SUFFIX,liantu.com,DIRECT
-  - DOMAIN-SUFFIX,liantu.me,DIRECT
   - DOMAIN-SUFFIX,lianzhuli.com,DIRECT
   - DOMAIN-SUFFIX,liaoxuefeng.com,DIRECT
   - DOMAIN-SUFFIX,liba.com,DIRECT
@@ -2219,7 +2481,6 @@
   - DOMAIN-SUFFIX,luyouqi.com,DIRECT
   - DOMAIN-SUFFIX,lvmama.com,DIRECT
   - DOMAIN-SUFFIX,lvsexitong.com,DIRECT
-  - DOMAIN-SUFFIX,lxdns.com,DIRECT
   - DOMAIN-SUFFIX,lxway.com,DIRECT
   - DOMAIN-SUFFIX,magedu.com,DIRECT
   - DOMAIN-SUFFIX,maisanqi.com,DIRECT
@@ -2314,7 +2575,6 @@
   - DOMAIN-SUFFIX,pgzs.com,DIRECT
   - DOMAIN-SUFFIX,pharmacodia.com,DIRECT
   - DOMAIN-SUFFIX,piaoliang.com,DIRECT
-  - DOMAIN-SUFFIX,pingan.com,DIRECT
   - DOMAIN-SUFFIX,pingplusplus.com,DIRECT
   - DOMAIN-SUFFIX,pingwest.com,DIRECT
   - DOMAIN-SUFFIX,pingxx.com,DIRECT
@@ -2322,7 +2582,6 @@
   - DOMAIN-SUFFIX,pipaw.com,DIRECT
   - DOMAIN-SUFFIX,pipaw.net,DIRECT
   - DOMAIN-SUFFIX,pptbest.com,DIRECT
-  - DOMAIN-SUFFIX,psbc.com,DIRECT
   - DOMAIN-SUFFIX,pubyun.com,DIRECT
   - DOMAIN-SUFFIX,qc188.com,DIRECT
   - DOMAIN-SUFFIX,qcc.com,DIRECT
@@ -2481,11 +2740,11 @@
   - DOMAIN-SUFFIX,veryhuo.com,DIRECT
   - DOMAIN-SUFFIX,veryzhun.com,DIRECT
   - DOMAIN-SUFFIX,vic18.com,DIRECT
+  - DOMAIN-SUFFIX,videojj.com,DIRECT
   - DOMAIN-SUFFIX,vijos.org,DIRECT
   - DOMAIN-SUFFIX,vip.com,DIRECT
   - DOMAIN-SUFFIX,vobao.com,DIRECT
   - DOMAIN-SUFFIX,vpgame.com,DIRECT
-  - DOMAIN-SUFFIX,wallstreetcn.com,DIRECT
   - DOMAIN-SUFFIX,wangyangyang.vip,DIRECT
   - DOMAIN-SUFFIX,wannianli8.com,DIRECT
   - DOMAIN-SUFFIX,wanplus.com,DIRECT
@@ -2579,7 +2838,6 @@
   - DOMAIN-SUFFIX,yeshen.com,DIRECT
   - DOMAIN-SUFFIX,yesky.com,DIRECT
   - DOMAIN-SUFFIX,yh31.com,DIRECT
-  - DOMAIN-SUFFIX,yicai.com,DIRECT
   - DOMAIN-SUFFIX,yigao.com,DIRECT
   - DOMAIN-SUFFIX,yigoonet.com,DIRECT
   - DOMAIN-SUFFIX,yihedoors.com,DIRECT
