@@ -29,10 +29,26 @@
   - DOMAIN-SUFFIX,bootcss.com,DIRECT
   - DOMAIN-SUFFIX,bootcdn.cn,DIRECT
   - DOMAIN-SUFFIX,phpcomposer.com,DIRECT
+  - DOMAIN-SUFFIX,acadn.cn,DIRECT
+  - DOMAIN-SUFFIX,acadn.com,DIRECT
+  - DOMAIN-SUFFIX,bbbcdns.com,DIRECT
+  - DOMAIN-SUFFIX,dlgslb.cn,DIRECT
+  - DOMAIN-SUFFIX,dlgslb.net,DIRECT
+  - DOMAIN-SUFFIX,dwion.com,DIRECT
+  - DOMAIN-SUFFIX,fastcdn.com,DIRECT
+  - DOMAIN-SUFFIX,fastcdn.com.cn,DIRECT
+  - DOMAIN-SUFFIX,flxdns.cn,DIRECT
+  - DOMAIN-SUFFIX,flxdns.com,DIRECT
+  - DOMAIN-SUFFIX,globalcdn.cn,DIRECT
+  - DOMAIN-SUFFIX,mcadn.cn,DIRECT
+  - DOMAIN-SUFFIX,tlgslb.cn,DIRECT
+  - DOMAIN-SUFFIX,tlgslb.com,DIRECT
   - DOMAIN-SUFFIX,maoyun.com,DIRECT
   - DOMAIN-SUFFIX,maoyuncloud.cn,DIRECT
   - DOMAIN-SUFFIX,maoyuncloud.com,DIRECT
   - DOMAIN-SUFFIX,pkoplink.com,DIRECT
+  - DOMAIN-SUFFIX,qingcache.com,DIRECT
+  - DOMAIN-SUFFIX,qingcloud.com,DIRECT
   - DOMAIN-SUFFIX,staticfile.org,DIRECT
   - DOMAIN-SUFFIX,qbox.me,DIRECT
   - DOMAIN-SUFFIX,qiniu.com,DIRECT
@@ -70,8 +86,6 @@
   - DOMAIN-SUFFIX,yfp2p.net,DIRECT
   - DOMAIN-SUFFIX,yfscdn.net,DIRECT
   - DOMAIN-SUFFIX,yunfancdn.com,DIRECT
-  - DOMAIN-SUFFIX,qingcache.com,DIRECT
-  - DOMAIN-SUFFIX,qingcloud.com,DIRECT
   - DOMAIN-SUFFIX,boc.cn,DIRECT
   - DOMAIN-SUFFIX,bankofchina.com,DIRECT
   - DOMAIN-SUFFIX,bocaviation.com,DIRECT
@@ -1069,6 +1083,7 @@
   - DOMAIN-SUFFIX,alicdn.com,DIRECT
   - DOMAIN-SUFFIX,alidayu.com,DIRECT
   - DOMAIN-SUFFIX,alidns.com,DIRECT
+  - DOMAIN-SUFFIX,alikunlun.com,DIRECT
   - DOMAIN-SUFFIX,aliyun-inc.com,DIRECT
   - DOMAIN-SUFFIX,aliyun-iot-share.com,DIRECT
   - DOMAIN-SUFFIX,aliyun.com,DIRECT
@@ -1076,8 +1091,26 @@
   - DOMAIN-SUFFIX,aliyuncs.com,DIRECT
   - DOMAIN-SUFFIX,hichina.com,DIRECT
   - DOMAIN-SUFFIX,ica-alliance.org,DIRECT
+  - DOMAIN-SUFFIX,kunlunaq.com,DIRECT
+  - DOMAIN-SUFFIX,kunlunar.com,DIRECT
   - DOMAIN-SUFFIX,kunlunca.com,DIRECT
+  - DOMAIN-SUFFIX,kunluncan.com,DIRECT
+  - DOMAIN-SUFFIX,kunlunea.com,DIRECT
+  - DOMAIN-SUFFIX,kunlungem.com,DIRECT
   - DOMAIN-SUFFIX,kunlungr.com,DIRECT
+  - DOMAIN-SUFFIX,kunlunhuf.com,DIRECT
+  - DOMAIN-SUFFIX,kunlunle.com,DIRECT
+  - DOMAIN-SUFFIX,kunlunli.com,DIRECT
+  - DOMAIN-SUFFIX,kunlunno.com,DIRECT
+  - DOMAIN-SUFFIX,kunlunpi.com,DIRECT
+  - DOMAIN-SUFFIX,kunlunra.com,DIRECT
+  - DOMAIN-SUFFIX,kunlunsa.com,DIRECT
+  - DOMAIN-SUFFIX,kunlunsc.com,DIRECT
+  - DOMAIN-SUFFIX,kunlunsl.com,DIRECT
+  - DOMAIN-SUFFIX,kunlunso.com,DIRECT
+  - DOMAIN-SUFFIX,kunlunta.com,DIRECT
+  - DOMAIN-SUFFIX,kunlunvi.com,DIRECT
+  - DOMAIN-SUFFIX,kunlunwe.com,DIRECT
   - DOMAIN-SUFFIX,mxhichina.com,DIRECT
   - DOMAIN-SUFFIX,ddurl.to,DIRECT
   - DOMAIN-SUFFIX,dingding.xin,DIRECT
@@ -1869,6 +1902,7 @@
   - DOMAIN-SUFFIX,chinaunicomglobal.com,DIRECT
   - DOMAIN-SUFFIX,mychinaunicom.com,DIRECT
   - DOMAIN-SUFFIX,wo.com.cn,DIRECT
+  - DOMAIN-SUFFIX,j-test.com,DIRECT
   - DOMAIN-SUFFIX,guoxuedashi.com,DIRECT
   - DOMAIN-SUFFIX,guoxuemi.com,DIRECT
   - DOMAIN-SUFFIX,mojidict.com,DIRECT
