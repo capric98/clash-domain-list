@@ -30,8 +30,8 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Set variables
       run: |
-        echo "RELEASE_NAME=$(date +%Y%m%d%H)" >> $GITHUB_ENV
-        echo "TAG_NAME=$(date +%Y%m%d%H)" >> $GITHUB_ENV
+        echo "RELEASE_NAME=$(date +%Y%m%d%H%S)" >> $GITHUB_ENV
+        echo "TAG_NAME=$(date +%Y%m%d%H%S)" >> $GITHUB_ENV
       shell: bash
     - name: Generating rules...
       run: |
@@ -39,7 +39,7 @@ jobs:
         mkdir output && mv domain-list-community/data .
         python main.py
         cd output
-        zip rules.zip *.yaml
+        zip ../rules.zip *.yaml
         cd ..
         rm -rf domain-list-community data output
 
