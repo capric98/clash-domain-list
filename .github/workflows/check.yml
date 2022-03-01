@@ -5,6 +5,7 @@ on:
     branches:
       - master
     paths-ignore:
+      - ".hisotry"
       - "**/README.md"
 
 jobs:
@@ -33,7 +34,6 @@ jobs:
           git init
           git config --local user.name 'github-actions'
           git config --local user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git checkout -b release
           git add -A
           git commit -am "Updated by github-actions at ${{ env.RELEASE_NAME }}."
           git push -f -u origin release

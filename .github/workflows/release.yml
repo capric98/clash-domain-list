@@ -3,9 +3,9 @@ name: release
 on:
   push:
     branches:
-      - release
-    paths-ignore:
-      - "**/README.md"
+      - master
+    paths:
+      - ".history"
 
 jobs:
   update:
