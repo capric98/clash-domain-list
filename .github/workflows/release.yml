@@ -1,9 +1,9 @@
 name: release
 
 on:
+  schedule:
+    - cron: '0 8 * * *'
   push:
-    schedule:
-      - cron: '0 8 * * *'
     # paths:
     #   - ".history"
 
