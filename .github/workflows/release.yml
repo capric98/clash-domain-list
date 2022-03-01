@@ -2,10 +2,10 @@ name: release
 
 on:
   push:
-    branches:
-      - master
-    paths:
-      - ".history"
+    schedule:
+      - cron: '0 8 * * *'
+    # paths:
+    #   - ".history"
 
 jobs:
   update:
@@ -38,7 +38,9 @@ jobs:
         git clone https://github.com/v2fly/domain-list-community
         mkdir output && mv domain-list-community/data .
         python main.py
-        zip rules.zip output/*.yaml
+        cd output
+        zip rules.zip *.yaml
+        cd ..
         rm -rf domain-list-community data output
 
     - name: Create a release
