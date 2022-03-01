@@ -1,0 +1,63 @@
+name: release
+
+on:
+  push:
+    branches:
+      - release
+    paths-ignore:
+      - "**/README.md"
+
+jobs:
+  update:
+
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.10"]
+
+    steps:
+    - uses: actions/checkout@v2
+      # with:
+      #   fetch-depth: 0
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v2
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    - name: Set variables
+      run: |
+        echo "RELEASE_NAME=$(date +%Y%m%d%H)" >> $GITHUB_ENV
+        echo "TAG_NAME=$(date +%Y%m%d%H)" >> $GITHUB_ENV
+      shell: bash
+    - name: Generating rules...
+      run: |
+        git clone https://github.com/v2fly/domain-list-community
+        mkdir output && mv domain-list-community/data .
+        python main.py
+        rm -rf domain-list-community data
+        zip output/*.yaml rules.zip
+
+    - name: Create a release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: ${{ env.TAG_NAME }}
+        release_name: ${{ env.RELEASE_NAME }}
+        draft: false
+        prerelease: false
+
+    - name: Upload rules.zip
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ./rules.zip
+        asset_name: rules.zip
+        asset_content_type: application/octet-stream

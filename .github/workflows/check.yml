@@ -1,0 +1,41 @@
+name: check
+
+on:
+  push:
+    branches:
+      - master
+    paths-ignore:
+      - "**/README.md"
+
+jobs:
+  update:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+      # with:
+      #   fetch-depth: 0
+    - name: Set variables
+      run: |
+        echo "RELEASE_NAME=$(date +%Y%m%d%H)" >> $GITHUB_ENV
+        echo "TAG_NAME=$(date +%Y%m%d%H)" >> $GITHUB_ENV
+      shell: bash
+    - name: Checking...
+      run: |
+        git clone https://github.com/v2fly/domain-list-community
+        if [[ "$(git -C domain-list-community rev-parse HEAD | tr -d '\n')" == "$(cat .history)" ]]; then
+          echo "Already updated!"
+        else
+          echo -n $(git -C domain-list-community rev-parse HEAD | tr -d '\n' | tr -d "\n") > .history
+          rm -rf domain-list-community
+
+          git init
+          git config --local user.name 'github-actions'
+          git config --local user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git checkout -b release
+          git add -A
+          git commit -am "Updated by github-actions at ${{ env.RELEASE_NAME }}."
+          git push -f -u origin release
+          git push
+        fi
