@@ -38,8 +38,8 @@ jobs:
         git clone https://github.com/v2fly/domain-list-community
         mkdir output && mv domain-list-community/data .
         python main.py
-        rm -rf domain-list-community data
-        zip output/*.yaml rules.zip
+        zip rules.zip output/*.yaml
+        rm -rf domain-list-community data output
 
     - name: Create a release
       id: create_release
