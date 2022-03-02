@@ -30,8 +30,8 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Set variables
       run: |
-        echo "RELEASE_NAME=$(date +%Y%m%d%H%S)" >> $GITHUB_ENV
-        echo "TAG_NAME=$(date +%Y%m%d%H%S)" >> $GITHUB_ENV
+        echo "RELEASE_NAME=$(date +%Y%m%d%H)" >> $GITHUB_ENV
+        echo "TAG_NAME=$(date +%Y%m%d%H)" >> $GITHUB_ENV
       shell: bash
     - name: Generating rules...
       run: |
